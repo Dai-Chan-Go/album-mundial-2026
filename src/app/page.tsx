@@ -23,6 +23,8 @@ type PackResult = {
   notFoundNumbers: string[];
 };
 
+type ViewMode = "album" | "packs" | "trade";
+
 export default function Home() {
   const [user, setUser] = useState<User | null>(null);
   const [checkingSession, setCheckingSession] = useState(true);
@@ -41,7 +43,8 @@ export default function Home() {
 
   const [selectedTeam, setSelectedTeam] = useState("all");
 
-  const [packMode, setPackMode] = useState(false);
+  const [viewMode, setViewMode] = useState<ViewMode>("album");
+
   const [packInput, setPackInput] = useState("");
   const [packResult, setPackResult] = useState<PackResult | null>(null);
 
@@ -151,6 +154,80 @@ export default function Home() {
   );
   const progress = total > 0 ? Math.round((ownedCount / total) * 100) : 0;
 
+  const duplicateStickers = useMemo(() => {
+    return stickers.filter((sticker) => (sticker.duplicates || 0) > 0);
+  }, [stickers]);
+
+  const missingStickers = useMemo(() => {
+    return stickers.filter((sticker) => !sticker.owned);
+  }, [stickers]);
+
+  const tradeText = useMemo(() => {
+    const duplicatesText =
+      duplicateStickers.length > 0
+        ? duplicateStickers
+            .map((sticker) => {
+              const name = sticker.name ? ` - ${sticker.name}` : "";
+              return `${sticker.number}${name} x${sticker.duplicates}`;
+            })
+            .join("\n")
+        : "No tengo repetidas por ahora.";
+
+    const missingText =
+      missingStickers.length > 0
+        ? missingStickers
+            .map((sticker) => {
+              const name = sticker.name ? ` - ${sticker.name}` : "";
+              return `${sticker.number}${name}`;
+            })
+            .join("\n")
+        : "No me falta ninguna.";
+
+    return `Álbum Mundial FIFA 2026
+
+Tengo repetidas:
+${duplicatesText}
+
+Me faltan:
+${missingText}`;
+  }, [duplicateStickers, missingStickers]);
+
+  const duplicatesTradeText = useMemo(() => {
+    if (duplicateStickers.length === 0) {
+      return "No tengo repetidas por ahora.";
+    }
+
+    const duplicatesText = duplicateStickers
+      .map((sticker) => {
+        const name = sticker.name ? ` - ${sticker.name}` : "";
+        return `${sticker.number}${name} x${sticker.duplicates}`;
+      })
+      .join("\n");
+
+    return `Álbum Mundial FIFA 2026
+
+Tengo repetidas:
+${duplicatesText}`;
+  }, [duplicateStickers]);
+
+  const missingTradeText = useMemo(() => {
+    if (missingStickers.length === 0) {
+      return "No me falta ninguna. ¡Álbum completo!";
+    }
+
+    const missingText = missingStickers
+      .map((sticker) => {
+        const name = sticker.name ? ` - ${sticker.name}` : "";
+        return `${sticker.number}${name}`;
+      })
+      .join("\n");
+
+    return `Álbum Mundial FIFA 2026
+
+Me faltan:
+${missingText}`;
+  }, [missingStickers]);
+
   const filteredStickers = useMemo(() => {
     return stickers.filter((sticker) => {
       const text = `${sticker.number} ${sticker.name || ""} ${
@@ -171,6 +248,28 @@ export default function Home() {
       return matchesSearch && matchesFilter && matchesSection;
     });
   }, [stickers, search, filter, selectedTeam]);
+
+  async function copyTextToClipboard(text: string, successMessage: string) {
+    try {
+      await navigator.clipboard.writeText(text);
+      alert(successMessage);
+    } catch (error) {
+      console.error("Error copying text:", error);
+      alert("No se pudo copiar la lista automáticamente.");
+    }
+  }
+
+  async function copyTradeText() {
+    await copyTextToClipboard(tradeText, "Lista completa copiada.");
+  }
+
+  async function copyDuplicatesText() {
+    await copyTextToClipboard(duplicatesTradeText, "Lista de repetidas copiada.");
+  }
+
+  async function copyMissingText() {
+    await copyTextToClipboard(missingTradeText, "Lista de faltantes copiada.");
+  }
 
   async function toggleOwned(id: number) {
     const sticker = stickers.find((s) => s.id === id);
@@ -497,27 +596,42 @@ export default function Home() {
           </div>
         </section>
 
-        <section className="grid grid-cols-2 gap-2">
+        <section className="grid grid-cols-3 gap-2">
           <button
-            onClick={() => setPackMode(false)}
-            className={`rounded-xl p-3 font-semibold ${
-              !packMode ? "bg-blue-600" : "bg-slate-800 text-slate-300"
+            onClick={() => setViewMode("album")}
+            className={`rounded-xl p-3 font-semibold text-sm ${
+              viewMode === "album"
+                ? "bg-blue-600"
+                : "bg-slate-800 text-slate-300"
             }`}
           >
             Álbum
           </button>
 
           <button
-            onClick={() => setPackMode(true)}
-            className={`rounded-xl p-3 font-semibold ${
-              packMode ? "bg-blue-600" : "bg-slate-800 text-slate-300"
+            onClick={() => setViewMode("packs")}
+            className={`rounded-xl p-3 font-semibold text-sm ${
+              viewMode === "packs"
+                ? "bg-blue-600"
+                : "bg-slate-800 text-slate-300"
             }`}
           >
-            Modo sobres
+            Sobres
+          </button>
+
+          <button
+            onClick={() => setViewMode("trade")}
+            className={`rounded-xl p-3 font-semibold text-sm ${
+              viewMode === "trade"
+                ? "bg-blue-600"
+                : "bg-slate-800 text-slate-300"
+            }`}
+          >
+            Cambio
           </button>
         </section>
 
-        {packMode ? (
+        {viewMode === "packs" && (
           <section className="bg-slate-900 rounded-2xl p-4 shadow space-y-4">
             <div>
               <h2 className="text-xl font-bold">Capturar sobre</h2>
@@ -644,7 +758,145 @@ export default function Home() {
               </div>
             )}
           </section>
-        ) : (
+        )}
+
+        {viewMode === "trade" && (
+          <section className="space-y-4">
+            <section className="bg-slate-900 rounded-2xl p-4 shadow space-y-4">
+              <div>
+                <h2 className="text-xl font-bold">Intercambio</h2>
+                <p className="text-sm text-slate-400 mt-1">
+                  Lista rápida de repetidas y faltantes para compartir.
+                </p>
+              </div>
+
+              <div className="grid grid-cols-2 gap-2 text-center">
+                <div className="bg-yellow-950 border border-yellow-800 rounded-xl p-3">
+                  <p className="text-2xl font-bold">
+                    {duplicateStickers.length}
+                  </p>
+                  <p className="text-xs text-yellow-300">
+                    Stickers repetidos
+                  </p>
+                </div>
+
+                <div className="bg-red-950 border border-red-800 rounded-xl p-3">
+                  <p className="text-2xl font-bold">{missingStickers.length}</p>
+                  <p className="text-xs text-red-300">Stickers faltantes</p>
+                </div>
+              </div>
+
+                            <div className="space-y-2">
+                <button
+                  onClick={copyTradeText}
+                  className="w-full bg-green-600 rounded-xl p-3 font-semibold"
+                >
+                  Copiar lista completa
+                </button>
+
+                <div className="grid grid-cols-2 gap-2">
+                  <button
+                    onClick={copyDuplicatesText}
+                    className="bg-yellow-700 rounded-xl p-3 font-semibold text-sm"
+                  >
+                    Copiar repetidas
+                  </button>
+
+                  <button
+                    onClick={copyMissingText}
+                    className="bg-red-700 rounded-xl p-3 font-semibold text-sm"
+                  >
+                    Copiar faltantes
+                  </button>
+                </div>
+              </div>
+            </section>
+
+            <section className="bg-slate-900 rounded-2xl p-4 shadow space-y-3">
+              <div>
+                <h3 className="text-lg font-bold text-yellow-400">
+                  Tengo repetidas
+                </h3>
+                <p className="text-sm text-slate-400">
+                  Stickers disponibles para cambiar.
+                </p>
+              </div>
+
+              {duplicateStickers.length > 0 ? (
+                <div className="space-y-2">
+                  {duplicateStickers.map((sticker) => (
+                    <article
+                      key={sticker.id}
+                      className="bg-slate-800 rounded-xl p-3 flex items-center justify-between gap-3"
+                    >
+                      <div className="min-w-0">
+                        <p className="font-bold">{sticker.number}</p>
+                        <p className="text-sm text-slate-400 truncate">
+                          {sticker.name || "Sin nombre"}
+                        </p>
+                        <p className="text-xs text-slate-500 truncate">
+                          {sticker.team || "Sin equipo"} ·{" "}
+                          {sticker.section || "Sin sección"}
+                        </p>
+                      </div>
+
+                      <div className="bg-yellow-900 text-yellow-200 rounded-full px-3 py-1 text-sm font-bold shrink-0">
+                        x{sticker.duplicates}
+                      </div>
+                    </article>
+                  ))}
+                </div>
+              ) : (
+                <div className="bg-slate-800 rounded-xl p-4 text-center">
+                  <p className="font-semibold">Todavía no hay repetidas.</p>
+                  <p className="text-sm text-slate-400 mt-1">
+                    Cuando captures repetidas aparecerán aquí.
+                  </p>
+                </div>
+              )}
+            </section>
+
+            <section className="bg-slate-900 rounded-2xl p-4 shadow space-y-3">
+              <div>
+                <h3 className="text-lg font-bold text-red-400">Me faltan</h3>
+                <p className="text-sm text-slate-400">
+                  Stickers pendientes para completar el álbum.
+                </p>
+              </div>
+
+              {missingStickers.length > 0 ? (
+                <div className="space-y-2">
+                  {missingStickers.map((sticker) => (
+                    <article
+                      key={sticker.id}
+                      className="bg-slate-800 rounded-xl p-3"
+                    >
+                      <p className="font-bold">{sticker.number}</p>
+                      <p className="text-sm text-slate-400 truncate">
+                        {sticker.name || "Sin nombre"}
+                      </p>
+                      <p className="text-xs text-slate-500 truncate">
+                        {sticker.team || "Sin equipo"} ·{" "}
+                        {sticker.section || "Sin sección"}
+                      </p>
+                    </article>
+                  ))}
+                </div>
+              ) : (
+                <div className="bg-green-950 border border-green-800 rounded-xl p-4 text-center">
+                  <p className="font-semibold text-green-300">
+                    ¡Álbum completo!
+                  </p>
+                  <p className="text-sm text-green-400 mt-1">
+                    No tienes stickers faltantes.
+                  </p>
+                </div>
+              )}
+            </section>
+          </section>
+        )}
+
+        {viewMode === "album" && (
           <>
             <TeamProgress
               stickers={stickers}
@@ -779,7 +1031,9 @@ export default function Home() {
 
               {filteredStickers.length === 0 && (
                 <div className="bg-slate-900 rounded-2xl p-5 text-center shadow">
-                  <p className="font-semibold">No hay stickers con estos filtros.</p>
+                  <p className="font-semibold">
+                    No hay stickers con estos filtros.
+                  </p>
                   <p className="text-sm text-slate-400 mt-1">
                     Prueba cambiar búsqueda, filtro o sección.
                   </p>
