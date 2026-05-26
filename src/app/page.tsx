@@ -165,10 +165,10 @@ export default function Home() {
         (filter === "missing" && !sticker.owned) ||
         (filter === "duplicates" && sticker.duplicates > 0);
 
-      const matchesTeam =
-        selectedTeam === "all" || sticker.team === selectedTeam;
+      const matchesSection =
+        selectedTeam === "all" || sticker.section === selectedTeam;
 
-      return matchesSearch && matchesFilter && matchesTeam;
+      return matchesSearch && matchesFilter && matchesSection;
     });
   }, [stickers, search, filter, selectedTeam]);
 
@@ -703,14 +703,14 @@ export default function Home() {
                   onClick={() => setSelectedTeam("all")}
                   className="w-full bg-slate-800 text-slate-300 rounded-xl p-3 font-semibold"
                 >
-                  Ver todos los equipos
+                  Ver todas las secciones
                 </button>
               )}
             </section>
 
             {selectedTeam !== "all" && (
               <section className="bg-slate-900 rounded-2xl p-4 shadow">
-                <p className="text-sm text-slate-400">Viendo equipo</p>
+                <p className="text-sm text-slate-400">Viendo sección</p>
                 <h2 className="text-xl font-bold">{selectedTeam}</h2>
               </section>
             )}
@@ -781,7 +781,7 @@ export default function Home() {
                 <div className="bg-slate-900 rounded-2xl p-5 text-center shadow">
                   <p className="font-semibold">No hay stickers con estos filtros.</p>
                   <p className="text-sm text-slate-400 mt-1">
-                    Prueba cambiar búsqueda, filtro o equipo.
+                    Prueba cambiar búsqueda, filtro o sección.
                   </p>
                 </div>
               )}
