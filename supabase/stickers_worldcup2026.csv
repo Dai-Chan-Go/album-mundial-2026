@@ -1,0 +1,1176 @@
+id,number,name,team,section,type,sort_order,owned,duplicates
+1,"PL000","Panini Logo","We Are Panini","We Are Panini","Foil",1,false,0
+2,"FWC001","Official Emblem","FIFA World Cup 2026","FIFA World Cup 2026","Foil",2,false,0
+3,"FWC002","Official Emblem","FIFA World Cup 2026","FIFA World Cup 2026","Foil",3,false,0
+4,"FWC003","Official Mascots","FIFA World Cup 2026","FIFA World Cup 2026","Foil",4,false,0
+5,"FWC004","Official Slogan","FIFA World Cup 2026","FIFA World Cup 2026","Foil",5,false,0
+6,"FWC005","Official Ball","FIFA World Cup 2026","FIFA World Cup 2026","Foil",6,false,0
+7,"FWC006","Canada","Host Countries and Cities","Host Countries and Cities","Foil",7,false,0
+8,"FWC007","Mexico","Host Countries and Cities","Host Countries and Cities","Foil",8,false,0
+9,"FWC008","USA","Host Countries and Cities","Host Countries and Cities","Foil",9,false,0
+10,"MEX001","Emblem","Mexico","Mexico","Foil",10,false,0
+11,"MEX002","Luis Malagón","Mexico","Mexico","Base",11,false,0
+12,"MEX003","Johan Vasquez","Mexico","Mexico","Base",12,false,0
+13,"MEX004","Jorge Sánchez","Mexico","Mexico","Base",13,false,0
+14,"MEX005","Cesar Montes","Mexico","Mexico","Base",14,false,0
+15,"MEX006","Jesus Gallardo","Mexico","Mexico","Base",15,false,0
+16,"MEX007","Israel Reyes","Mexico","Mexico","Base",16,false,0
+17,"MEX008","Diego Lainez","Mexico","Mexico","Base",17,false,0
+18,"MEX009","Carlos Rodriguez","Mexico","Mexico","Base",18,false,0
+19,"MEX010","Edson Alvarez","Mexico","Mexico","Base",19,false,0
+20,"MEX011","Orbelin Pineda","Mexico","Mexico","Base",20,false,0
+21,"MEX012","Marcel Ruiz","Mexico","Mexico","Base",21,false,0
+22,"MEX013","Team Photo","Mexico","Mexico","Base",22,false,0
+23,"MEX014","Érick Sánchez","Mexico","Mexico","Base",23,false,0
+24,"MEX015","Hirving Lozano","Mexico","Mexico","Base",24,false,0
+25,"MEX016","Santiago Giménez","Mexico","Mexico","Base",25,false,0
+26,"MEX017","Raúl Jiménez","Mexico","Mexico","Base",26,false,0
+27,"MEX018","Alexis Vega","Mexico","Mexico","Base",27,false,0
+28,"MEX019","Roberto Alvarado","Mexico","Mexico","Base",28,false,0
+29,"MEX020","Cesar Huerta","Mexico","Mexico","Base",29,false,0
+30,"RSA001","Emblem","South Africa","South Africa","Foil",30,false,0
+31,"RSA002","Ronwen Williams","South Africa","South Africa","Base",31,false,0
+32,"RSA003","Sipho Chaine","South Africa","South Africa","Base",32,false,0
+33,"RSA004","Aubrey Modiba","South Africa","South Africa","Base",33,false,0
+34,"RSA005","Samukele Kabini","South Africa","South Africa","Base",34,false,0
+35,"RSA006","Mbekezeli Mbokazi","South Africa","South Africa","Base",35,false,0
+36,"RSA007","Khulumani Ndamane","South Africa","South Africa","Base",36,false,0
+37,"RSA008","Siyabonga Ngezana","South Africa","South Africa","Base",37,false,0
+38,"RSA009","Khuliso Mudau","South Africa","South Africa","Base",38,false,0
+39,"RSA010","Nkosinathi Sibisi","South Africa","South Africa","Base",39,false,0
+40,"RSA011","Teboho Mokoena","South Africa","South Africa","Base",40,false,0
+41,"RSA012","Thalente Mbatha","South Africa","South Africa","Base",41,false,0
+42,"RSA013","Team Photo","South Africa","South Africa","Base",42,false,0
+43,"RSA014","Bathasi Aubaas","South Africa","South Africa","Base",43,false,0
+44,"RSA015","Yaya Sithole","South Africa","South Africa","Base",44,false,0
+45,"RSA016","Sipho Mbule","South Africa","South Africa","Base",45,false,0
+46,"RSA017","Lyle Foster","South Africa","South Africa","Base",46,false,0
+47,"RSA018","Iqraam Rayners","South Africa","South Africa","Base",47,false,0
+48,"RSA019","Mohau Nkota","South Africa","South Africa","Base",48,false,0
+49,"RSA020","Oswin Appollis","South Africa","South Africa","Base",49,false,0
+50,"KOR001","Emblem","South Korea","South Korea","Foil",50,false,0
+51,"KOR002","Hyeon-woo Jo","South Korea","South Korea","Base",51,false,0
+52,"KOR003","Seung-Gyu Kim","South Korea","South Korea","Base",52,false,0
+53,"KOR004","Min-jae Kim","South Korea","South Korea","Base",53,false,0
+54,"KOR005","Yu-min Cho","South Korea","South Korea","Base",54,false,0
+55,"KOR006","Young-woo Seol","South Korea","South Korea","Base",55,false,0
+56,"KOR007","Han-beom Lee","South Korea","South Korea","Base",56,false,0
+57,"KOR008","Tae-seok Lee","South Korea","South Korea","Base",57,false,0
+58,"KOR009","Myung-jae Lee","South Korea","South Korea","Base",58,false,0
+59,"KOR010","Jae-sung Lee","South Korea","South Korea","Base",59,false,0
+60,"KOR011","In-beom Hwang","South Korea","South Korea","Base",60,false,0
+61,"KOR012","Kang-in Lee","South Korea","South Korea","Base",61,false,0
+62,"KOR013","Team Photo","South Korea","South Korea","Base",62,false,0
+63,"KOR014","Seung-ho Paik","South Korea","South Korea","Base",63,false,0
+64,"KOR015","Jens Castrop","South Korea","South Korea","Base",64,false,0
+65,"KOR016","Dongg-yeong Lee","South Korea","South Korea","Base",65,false,0
+66,"KOR017","Gue-sung Cho","South Korea","South Korea","Base",66,false,0
+67,"KOR018","Heung-min Son","South Korea","South Korea","Base",67,false,0
+68,"KOR019","Hee-chan Hwang","South Korea","South Korea","Base",68,false,0
+69,"KOR020","Hyeon-Gyu Oh","South Korea","South Korea","Base",69,false,0
+70,"CZE001","Emblem","Czechia","Czechia","Foil",70,false,0
+71,"CZE002","Matej Kovar","Czechia","Czechia","Base",71,false,0
+72,"CZE003","Jindrich Stanek","Czechia","Czechia","Base",72,false,0
+73,"CZE004","Ladislav Krejci","Czechia","Czechia","Base",73,false,0
+74,"CZE005","Vladimir Coufal","Czechia","Czechia","Base",74,false,0
+75,"CZE006","Jaroslav Zeleny","Czechia","Czechia","Base",75,false,0
+76,"CZE007","Tomas Holes","Czechia","Czechia","Base",76,false,0
+77,"CZE008","David Zima","Czechia","Czechia","Base",77,false,0
+78,"CZE009","Michal Sadilek","Czechia","Czechia","Base",78,false,0
+79,"CZE010","Lukas Provod","Czechia","Czechia","Base",79,false,0
+80,"CZE011","Lukas Cerv","Czechia","Czechia","Base",80,false,0
+81,"CZE012","Tomas Soucek","Czechia","Czechia","Base",81,false,0
+82,"CZE013","Team Photo","Czechia","Czechia","Base",82,false,0
+83,"CZE014","Pavel Sulc","Czechia","Czechia","Base",83,false,0
+84,"CZE015","Matej Vydra","Czechia","Czechia","Base",84,false,0
+85,"CZE016","Vasil Kusej","Czechia","Czechia","Base",85,false,0
+86,"CZE017","Tomas Chory","Czechia","Czechia","Base",86,false,0
+87,"CZE018","Vacilav Cerny","Czechia","Czechia","Base",87,false,0
+88,"CZE019","Adam Hlozek","Czechia","Czechia","Base",88,false,0
+89,"CZE020","Patrik Schick","Czechia","Czechia","Base",89,false,0
+90,"CAN001","Emblem","Canada","Canada","Foil",90,false,0
+91,"CAN002","Dayne St.Clair","Canada","Canada","Base",91,false,0
+92,"CAN003","Alphonso Davies","Canada","Canada","Base",92,false,0
+93,"CAN004","Alistair Johnston","Canada","Canada","Base",93,false,0
+94,"CAN005","Samuel Adekugbe","Canada","Canada","Base",94,false,0
+95,"CAN006","Riche Larvea","Canada","Canada","Base",95,false,0
+96,"CAN007","Derek Cornelius","Canada","Canada","Base",96,false,0
+97,"CAN008","Moïse Bombito","Canada","Canada","Base",97,false,0
+98,"CAN009","Kamal Miller","Canada","Canada","Base",98,false,0
+99,"CAN010","Stephen Eustáquio","Canada","Canada","Base",99,false,0
+100,"CAN011","Ismaël Koné","Canada","Canada","Base",100,false,0
+101,"CAN012","Jonathan Osorio","Canada","Canada","Base",101,false,0
+102,"CAN013","Team Photo","Canada","Canada","Base",102,false,0
+103,"CAN014","Jacob Shaffelburg","Canada","Canada","Base",103,false,0
+104,"CAN015","Mathieu Choinière","Canada","Canada","Base",104,false,0
+105,"CAN016","Niko Sigur","Canada","Canada","Base",105,false,0
+106,"CAN017","Tajon Buchanan","Canada","Canada","Base",106,false,0
+107,"CAN018","Liam Millar","Canada","Canada","Base",107,false,0
+108,"CAN019","Cyle Larin","Canada","Canada","Base",108,false,0
+109,"CAN020","Jonathan David","Canada","Canada","Base",109,false,0
+110,"BIH001","Emblem","Bosnia and Herzegovina","Bosnia and Herzegovina","Foil",110,false,0
+111,"BIH002","Nikola Vasilj","Bosnia and Herzegovina","Bosnia and Herzegovina","Base",111,false,0
+112,"BIH003","Amer Dedic","Bosnia and Herzegovina","Bosnia and Herzegovina","Base",112,false,0
+113,"BIH004","Sead Kolasinac","Bosnia and Herzegovina","Bosnia and Herzegovina","Base",113,false,0
+114,"BIH005","Tarik Muharemovic","Bosnia and Herzegovina","Bosnia and Herzegovina","Base",114,false,0
+115,"BIH006","Nihad Mujakic","Bosnia and Herzegovina","Bosnia and Herzegovina","Base",115,false,0
+116,"BIH007","Nikola Katic","Bosnia and Herzegovina","Bosnia and Herzegovina","Base",116,false,0
+117,"BIH008","Amir Hadziahmetovic","Bosnia and Herzegovina","Bosnia and Herzegovina","Base",117,false,0
+118,"BIH009","Benjamin Tahirovic","Bosnia and Herzegovina","Bosnia and Herzegovina","Base",118,false,0
+119,"BIH010","Armin Gigovic","Bosnia and Herzegovina","Bosnia and Herzegovina","Base",119,false,0
+120,"BIH011","Ivan Sunjic","Bosnia and Herzegovina","Bosnia and Herzegovina","Base",120,false,0
+121,"BIH012","Ivan Basic","Bosnia and Herzegovina","Bosnia and Herzegovina","Base",121,false,0
+122,"BIH013","Team Photo","Bosnia and Herzegovina","Bosnia and Herzegovina","Base",122,false,0
+123,"BIH014","Dzenis Burnic","Bosnia and Herzegovina","Bosnia and Herzegovina","Base",123,false,0
+124,"BIH015","Esmir Bajraktarevic","Bosnia and Herzegovina","Bosnia and Herzegovina","Base",124,false,0
+125,"BIH016","Amar Memic","Bosnia and Herzegovina","Bosnia and Herzegovina","Base",125,false,0
+126,"BIH017","Ermedin Demirovic","Bosnia and Herzegovina","Bosnia and Herzegovina","Base",126,false,0
+127,"BIH018","Edin Dzeko","Bosnia and Herzegovina","Bosnia and Herzegovina","Base",127,false,0
+128,"BIH019","Samed Bazdar","Bosnia and Herzegovina","Bosnia and Herzegovina","Base",128,false,0
+129,"BIH020","Haris Tabakovic","Bosnia and Herzegovina","Bosnia and Herzegovina","Base",129,false,0
+130,"QAT001","Emblem","Qatar","Qatar","Foil",130,false,0
+131,"QAT002","Meshaal Barsham","Qatar","Qatar","Base",131,false,0
+132,"QAT003","Sultan Albrake","Qatar","Qatar","Base",132,false,0
+133,"QAT004","Lucas Mendes","Qatar","Qatar","Base",133,false,0
+134,"QAT005","Homam Ahmed","Qatar","Qatar","Base",134,false,0
+135,"QAT006","Boualem Khoukhi","Qatar","Qatar","Base",135,false,0
+136,"QAT007","Pedro Miguel","Qatar","Qatar","Base",136,false,0
+137,"QAT008","Tarek Salman","Qatar","Qatar","Base",137,false,0
+138,"QAT009","Mohamed Al-Mannai","Qatar","Qatar","Base",138,false,0
+139,"QAT010","Karim Boudiaf","Qatar","Qatar","Base",139,false,0
+140,"QAT011","Assim Madibo","Qatar","Qatar","Base",140,false,0
+141,"QAT012","Ahmed Fatehi","Qatar","Qatar","Base",141,false,0
+142,"QAT013","Team Photo","Qatar","Qatar","Base",142,false,0
+143,"QAT014","Mohammed Waad","Qatar","Qatar","Base",143,false,0
+144,"QAT015","Abdulaziz Hatem","Qatar","Qatar","Base",144,false,0
+145,"QAT016","Hassan Al-Haydos","Qatar","Qatar","Base",145,false,0
+146,"QAT017","Edmilson Junior","Qatar","Qatar","Base",146,false,0
+147,"QAT018","Akram Hassan Afif","Qatar","Qatar","Base",147,false,0
+148,"QAT019","Ahmed Al Ganehi","Qatar","Qatar","Base",148,false,0
+149,"QAT020","Almoez Ali","Qatar","Qatar","Base",149,false,0
+150,"SUI001","Emblem","Switzerland","Switzerland","Foil",150,false,0
+151,"SUI002","Gregor Kobel","Switzerland","Switzerland","Base",151,false,0
+152,"SUI003","Yvon Mvogo","Switzerland","Switzerland","Base",152,false,0
+153,"SUI004","Manuel Akanji","Switzerland","Switzerland","Base",153,false,0
+154,"SUI005","Ricardo Rodriguez","Switzerland","Switzerland","Base",154,false,0
+155,"SUI006","Nico Elvedi","Switzerland","Switzerland","Base",155,false,0
+156,"SUI007","Aurèle Amenda","Switzerland","Switzerland","Base",156,false,0
+157,"SUI008","Silvan Widmer","Switzerland","Switzerland","Base",157,false,0
+158,"SUI009","Granit Xhaka","Switzerland","Switzerland","Base",158,false,0
+159,"SUI010","Denis Zakaria","Switzerland","Switzerland","Base",159,false,0
+160,"SUI011","Remo Freuler","Switzerland","Switzerland","Base",160,false,0
+161,"SUI012","Fabian Rieder","Switzerland","Switzerland","Base",161,false,0
+162,"SUI013","Team Photo","Switzerland","Switzerland","Base",162,false,0
+163,"SUI014","Ardon Jashari","Switzerland","Switzerland","Base",163,false,0
+164,"SUI015","Johan Manzambi","Switzerland","Switzerland","Base",164,false,0
+165,"SUI016","Michel Aebischer","Switzerland","Switzerland","Base",165,false,0
+166,"SUI017","Breel Embolo","Switzerland","Switzerland","Base",166,false,0
+167,"SUI018","Ruben Vargas","Switzerland","Switzerland","Base",167,false,0
+168,"SUI019","Dan Ndoye","Switzerland","Switzerland","Base",168,false,0
+169,"SUI020","Zeki Amdouni","Switzerland","Switzerland","Base",169,false,0
+170,"BRA001","Emblem","Brazil","Brazil","Foil",170,false,0
+171,"BRA002","Alisson","Brazil","Brazil","Base",171,false,0
+172,"BRA003","Bento","Brazil","Brazil","Base",172,false,0
+173,"BRA004","Marquinhos","Brazil","Brazil","Base",173,false,0
+174,"BRA005","Éder Militão","Brazil","Brazil","Base",174,false,0
+175,"BRA006","Gabriel Magalhães","Brazil","Brazil","Base",175,false,0
+176,"BRA007","Danilo","Brazil","Brazil","Base",176,false,0
+177,"BRA008","Wesley","Brazil","Brazil","Base",177,false,0
+178,"BRA009","Lucas Paquetá","Brazil","Brazil","Base",178,false,0
+179,"BRA010","Casemiro","Brazil","Brazil","Base",179,false,0
+180,"BRA011","Bruno Guimarães","Brazil","Brazil","Base",180,false,0
+181,"BRA012","Luiz Henrique","Brazil","Brazil","Base",181,false,0
+182,"BRA013","Team Photo","Brazil","Brazil","Base",182,false,0
+183,"BRA014","Vinicius Júnior","Brazil","Brazil","Base",183,false,0
+184,"BRA015","Rodrygo","Brazil","Brazil","Base",184,false,0
+185,"BRA016","João Pedro","Brazil","Brazil","Base",185,false,0
+186,"BRA017","Matheus Cunha","Brazil","Brazil","Base",186,false,0
+187,"BRA018","Gabriel Martinelli","Brazil","Brazil","Base",187,false,0
+188,"BRA019","Raphinha","Brazil","Brazil","Base",188,false,0
+189,"BRA020","Estévão","Brazil","Brazil","Base",189,false,0
+190,"MAR001","Emblem","Morocco","Morocco","Foil",190,false,0
+191,"MAR002","Yassine Bounou","Morocco","Morocco","Base",191,false,0
+192,"MAR003","Munir El Kajoui","Morocco","Morocco","Base",192,false,0
+193,"MAR004","Achraf Hakimi","Morocco","Morocco","Base",193,false,0
+194,"MAR005","Noussair Mazraoui","Morocco","Morocco","Base",194,false,0
+195,"MAR006","Nayef Aguerd","Morocco","Morocco","Base",195,false,0
+196,"MAR007","Roman Saiss","Morocco","Morocco","Base",196,false,0
+197,"MAR008","Jawad El Yamio","Morocco","Morocco","Base",197,false,0
+198,"MAR009","Adam Masina","Morocco","Morocco","Base",198,false,0
+199,"MAR010","Sofyan Amrabat","Morocco","Morocco","Base",199,false,0
+200,"MAR011","Azzedine Ounahi","Morocco","Morocco","Base",200,false,0
+201,"MAR012","Eliesse Ben Seghir","Morocco","Morocco","Base",201,false,0
+202,"MAR013","Team Photo","Morocco","Morocco","Base",202,false,0
+203,"MAR014","Bilal El Khannouss","Morocco","Morocco","Base",203,false,0
+204,"MAR015","Ismael Saibari","Morocco","Morocco","Base",204,false,0
+205,"MAR016","Youssef En-Nesyri","Morocco","Morocco","Base",205,false,0
+206,"MAR017","Abde Ezzalzouli","Morocco","Morocco","Base",206,false,0
+207,"MAR018","Soufiane Rahimi","Morocco","Morocco","Base",207,false,0
+208,"MAR019","Brahim Diaz","Morocco","Morocco","Base",208,false,0
+209,"MAR020","Ayoub El Kaabi","Morocco","Morocco","Base",209,false,0
+210,"HAI001","Emblem","Haiti","Haiti","Foil",210,false,0
+211,"HAI002","Johny Placide","Haiti","Haiti","Base",211,false,0
+212,"HAI003","Carlens Arcus","Haiti","Haiti","Base",212,false,0
+213,"HAI004","Martin Expérience","Haiti","Haiti","Base",213,false,0
+214,"HAI005","Jean-Kevin Duverne","Haiti","Haiti","Base",214,false,0
+215,"HAI006","Ricardo Adé","Haiti","Haiti","Base",215,false,0
+216,"HAI007","Duke Lacroix","Haiti","Haiti","Base",216,false,0
+217,"HAI008","Garven Metusala","Haiti","Haiti","Base",217,false,0
+218,"HAI009","Hannes Delcroix","Haiti","Haiti","Base",218,false,0
+219,"HAI010","Leverton Pierre","Haiti","Haiti","Base",219,false,0
+220,"HAI011","Danley Jean Jacques","Haiti","Haiti","Base",220,false,0
+221,"HAI012","Jean-Ricner Bellegarde","Haiti","Haiti","Base",221,false,0
+222,"HAI013","Team Photo","Haiti","Haiti","Base",222,false,0
+223,"HAI014","Christopher Attys","Haiti","Haiti","Base",223,false,0
+224,"HAI015","Derrick Etienne Jr","Haiti","Haiti","Base",224,false,0
+225,"HAI016","Josue Casimir","Haiti","Haiti","Base",225,false,0
+226,"HAI017","Ruben Providence","Haiti","Haiti","Base",226,false,0
+227,"HAI018","Duckens Nazon","Haiti","Haiti","Base",227,false,0
+228,"HAI019","Louicius Deedson","Haiti","Haiti","Base",228,false,0
+229,"HAI020","Frantzdy Pierrot","Haiti","Haiti","Base",229,false,0
+230,"SCO001","Emblem","Scotland","Scotland","Foil",230,false,0
+231,"SCO002","Angus Gunn","Scotland","Scotland","Base",231,false,0
+232,"SCO003","Jack Hendry","Scotland","Scotland","Base",232,false,0
+233,"SCO004","Kieran Tierney","Scotland","Scotland","Base",233,false,0
+234,"SCO005","Aaron Hickey","Scotland","Scotland","Base",234,false,0
+235,"SCO006","Andrew Robertson","Scotland","Scotland","Base",235,false,0
+236,"SCO007","Scott McKenna","Scotland","Scotland","Base",236,false,0
+237,"SCO008","John Souttar","Scotland","Scotland","Base",237,false,0
+238,"SCO009","Anthony Ralston","Scotland","Scotland","Base",238,false,0
+239,"SCO010","Grant Hanley","Scotland","Scotland","Base",239,false,0
+240,"SCO011","Scott McTominay","Scotland","Scotland","Base",240,false,0
+241,"SCO012","Billy Gilmour","Scotland","Scotland","Base",241,false,0
+242,"SCO013","Team Photo","Scotland","Scotland","Base",242,false,0
+243,"SCO014","Lewis Ferguson","Scotland","Scotland","Base",243,false,0
+244,"SCO015","Ryan Christie","Scotland","Scotland","Base",244,false,0
+245,"SCO016","Kenny McLean","Scotland","Scotland","Base",245,false,0
+246,"SCO017","John McGinn","Scotland","Scotland","Base",246,false,0
+247,"SCO018","Lyndon Dykes","Scotland","Scotland","Base",247,false,0
+248,"SCO019","Che Adams","Scotland","Scotland","Base",248,false,0
+249,"SCO020","Ben Gannon-Doak","Scotland","Scotland","Base",249,false,0
+250,"USA001","Emblem","USA","USA","Foil",250,false,0
+251,"USA002","Math Freese","USA","USA","Base",251,false,0
+252,"USA003","Chris Richards","USA","USA","Base",252,false,0
+253,"USA004","Tim Ream","USA","USA","Base",253,false,0
+254,"USA005","Mark McKenzie","USA","USA","Base",254,false,0
+255,"USA006","Alex Freeman","USA","USA","Base",255,false,0
+256,"USA007","Antonee Robinson","USA","USA","Base",256,false,0
+257,"USA008","Tyler Adams","USA","USA","Base",257,false,0
+258,"USA009","Tanner Tessmann","USA","USA","Base",258,false,0
+259,"USA010","Weston McKenny","USA","USA","Base",259,false,0
+260,"USA011","Christian Roldan","USA","USA","Base",260,false,0
+261,"USA012","Timothy Weah","USA","USA","Base",261,false,0
+262,"USA013","Team Photo","USA","USA","Base",262,false,0
+263,"USA014","Diego Luna","USA","USA","Base",263,false,0
+264,"USA015","Malim Tillman","USA","USA","Base",264,false,0
+265,"USA016","Christian Pulisic","USA","USA","Base",265,false,0
+266,"USA017","Brenden Aaronson","USA","USA","Base",266,false,0
+267,"USA018","Ricardo Pepi","USA","USA","Base",267,false,0
+268,"USA019","Haji Wright","USA","USA","Base",268,false,0
+269,"USA020","Folarin Balogun","USA","USA","Base",269,false,0
+270,"PAR001","Emblem","Paraguay","Paraguay","Foil",270,false,0
+271,"PAR002","Roberto Fernandez","Paraguay","Paraguay","Base",271,false,0
+272,"PAR003","Orlando Gill","Paraguay","Paraguay","Base",272,false,0
+273,"PAR004","Gustavo Gomez","Paraguay","Paraguay","Base",273,false,0
+274,"PAR005","Fabián Balbuena","Paraguay","Paraguay","Base",274,false,0
+275,"PAR006","Juan José Cáceres","Paraguay","Paraguay","Base",275,false,0
+276,"PAR007","Omar Alderete","Paraguay","Paraguay","Base",276,false,0
+277,"PAR008","Junior Alonso","Paraguay","Paraguay","Base",277,false,0
+278,"PAR009","Mathías Villasanti","Paraguay","Paraguay","Base",278,false,0
+279,"PAR010","Diego Gomez","Paraguay","Paraguay","Base",279,false,0
+280,"PAR011","Damián Bobadilla","Paraguay","Paraguay","Base",280,false,0
+281,"PAR012","Andres Cubas","Paraguay","Paraguay","Base",281,false,0
+282,"PAR013","Team Photo","Paraguay","Paraguay","Base",282,false,0
+283,"PAR014","Matias Galarza Fonda","Paraguay","Paraguay","Base",283,false,0
+284,"PAR015","Julio Enciso","Paraguay","Paraguay","Base",284,false,0
+285,"PAR016","Alejandro Romero Gamarra","Paraguay","Paraguay","Base",285,false,0
+286,"PAR017","Miguel Almirón","Paraguay","Paraguay","Base",286,false,0
+287,"PAR018","Ramon Sosa","Paraguay","Paraguay","Base",287,false,0
+288,"PAR019","Angel Romero","Paraguay","Paraguay","Base",288,false,0
+289,"PAR020","Antonio Sanabria","Paraguay","Paraguay","Base",289,false,0
+290,"AUS001","Emblem","Australia","Australia","Foil",290,false,0
+291,"AUS002","Mathew Ryan","Australia","Australia","Base",291,false,0
+292,"AUS003","Joe Gauci","Australia","Australia","Base",292,false,0
+293,"AUS004","Harry Souttar","Australia","Australia","Base",293,false,0
+294,"AUS005","Alessandro Circati","Australia","Australia","Base",294,false,0
+295,"AUS006","Jordan Bos","Australia","Australia","Base",295,false,0
+296,"AUS007","Aziz Behich","Australia","Australia","Base",296,false,0
+297,"AUS008","Cameron Burgess","Australia","Australia","Base",297,false,0
+298,"AUS009","Lewis Miller","Australia","Australia","Base",298,false,0
+299,"AUS010","Milos Degenek","Australia","Australia","Base",299,false,0
+300,"AUS011","Jackson Irvine","Australia","Australia","Base",300,false,0
+301,"AUS012","Riley McGree","Australia","Australia","Base",301,false,0
+302,"AUS013","Team Photo","Australia","Australia","Base",302,false,0
+303,"AUS014","Aiden O'Neill","Australia","Australia","Base",303,false,0
+304,"AUS015","Connor Metcalfe","Australia","Australia","Base",304,false,0
+305,"AUS016","Patrick Yazbek","Australia","Australia","Base",305,false,0
+306,"AUS017","Craig Goodwin","Australia","Australia","Base",306,false,0
+307,"AUS018","Kusini Vengi","Australia","Australia","Base",307,false,0
+308,"AUS019","Nestory Irankunda","Australia","Australia","Base",308,false,0
+309,"AUS020","Mohamed Touré","Australia","Australia","Base",309,false,0
+310,"TUR001","Emblem","Türkiye","Türkiye","Foil",310,false,0
+311,"TUR002","Ugurcan Cakir","Türkiye","Türkiye","Base",311,false,0
+312,"TUR003","Mert Muldur","Türkiye","Türkiye","Base",312,false,0
+313,"TUR004","Zeki Celik","Türkiye","Türkiye","Base",313,false,0
+314,"TUR005","Abdulkerim Bardakci","Türkiye","Türkiye","Base",314,false,0
+315,"TUR006","Caglar Soyunku","Türkiye","Türkiye","Base",315,false,0
+316,"TUR007","Merih Demiral","Türkiye","Türkiye","Base",316,false,0
+317,"TUR008","Ferdi Kadioglu","Türkiye","Türkiye","Base",317,false,0
+318,"TUR009","Kaan Ayhan","Türkiye","Türkiye","Base",318,false,0
+319,"TUR010","Ismail Yuksek","Türkiye","Türkiye","Base",319,false,0
+320,"TUR011","Hakan Calhanoglu","Türkiye","Türkiye","Base",320,false,0
+321,"TUR012","Orkun Kokcu","Türkiye","Türkiye","Base",321,false,0
+322,"TUR013","Team Photo","Türkiye","Türkiye","Base",322,false,0
+323,"TUR014","Arda Guler","Türkiye","Türkiye","Base",323,false,0
+324,"TUR015","Irfan Can Kahvecu","Türkiye","Türkiye","Base",324,false,0
+325,"TUR016","Yunus Akgun","Türkiye","Türkiye","Base",325,false,0
+326,"TUR017","Can Uzun","Türkiye","Türkiye","Base",326,false,0
+327,"TUR018","Baris Alper Yilmaz","Türkiye","Türkiye","Base",327,false,0
+328,"TUR019","Kerem Akturkoglu","Türkiye","Türkiye","Base",328,false,0
+329,"TUR020","Kenan Yildiz","Türkiye","Türkiye","Base",329,false,0
+330,"GER001","Emblem","Germany","Germany","Foil",330,false,0
+331,"GER002","Marc-André ter Stegen","Germany","Germany","Base",331,false,0
+332,"GER003","Jonathan Tah","Germany","Germany","Base",332,false,0
+333,"GER004","David Raum","Germany","Germany","Base",333,false,0
+334,"GER005","Nico Schlotterbeck","Germany","Germany","Base",334,false,0
+335,"GER006","Antonio Rüdiger","Germany","Germany","Base",335,false,0
+336,"GER007","Waldemar Anton","Germany","Germany","Base",336,false,0
+337,"GER008","Ridle Baku","Germany","Germany","Base",337,false,0
+338,"GER009","Maximilian Mittelstadt","Germany","Germany","Base",338,false,0
+339,"GER010","Joshua Kimmich","Germany","Germany","Base",339,false,0
+340,"GER011","Florian Wirtz","Germany","Germany","Base",340,false,0
+341,"GER012","Felix Nmecha","Germany","Germany","Base",341,false,0
+342,"GER013","Team Photo","Germany","Germany","Base",342,false,0
+343,"GER014","Leon Goretzka","Germany","Germany","Base",343,false,0
+344,"GER015","Jamal Musiala","Germany","Germany","Base",344,false,0
+345,"GER016","Serge Gnabry","Germany","Germany","Base",345,false,0
+346,"GER017","Kai Havertz","Germany","Germany","Base",346,false,0
+347,"GER018","Leroy Sane","Germany","Germany","Base",347,false,0
+348,"GER019","Karim Adeyemi","Germany","Germany","Base",348,false,0
+349,"GER020","Nick Woltemade","Germany","Germany","Base",349,false,0
+350,"GER002s","Marc-André ter Stegen","Germany","Germany","Silver",350,false,0
+351,"GER003s","Jonathan Tah","Germany","Germany","Silver",351,false,0
+352,"GER004s","David Raum","Germany","Germany","Silver",352,false,0
+353,"GER005s","Nico Schlotterbeck","Germany","Germany","Silver",353,false,0
+354,"GER006s","Antonio Rüdiger","Germany","Germany","Silver",354,false,0
+355,"GER007s","Waldemar Anton","Germany","Germany","Silver",355,false,0
+356,"GER008s","Ridle Baku","Germany","Germany","Silver",356,false,0
+357,"GER009s","Maximilian Mittelstadt","Germany","Germany","Silver",357,false,0
+358,"GER010s","Joshua Kimmich","Germany","Germany","Silver",358,false,0
+359,"GER011s","Florian Wirtz","Germany","Germany","Silver",359,false,0
+360,"GER012s","Felix Nmecha","Germany","Germany","Silver",360,false,0
+361,"GER014s","Leon Goretzka","Germany","Germany","Silver",361,false,0
+362,"GER015s","Jamal Musiala","Germany","Germany","Silver",362,false,0
+363,"GER016s","Serge Gnabry","Germany","Germany","Silver",363,false,0
+364,"GER017s","Kai Havertz","Germany","Germany","Silver",364,false,0
+365,"GER018s","Leroy Sane","Germany","Germany","Silver",365,false,0
+366,"GER019s","Karim Adeyemi","Germany","Germany","Silver",366,false,0
+367,"GER020s","Nick Woltemade","Germany","Germany","Silver",367,false,0
+368,"CUW001","Emblem","Curaçao","Curaçao","Foil",368,false,0
+369,"CUW002","Eloy Room","Curaçao","Curaçao","Base",369,false,0
+370,"CUW003","Armando Obispo","Curaçao","Curaçao","Base",370,false,0
+371,"CUW004","Sherel Floranus","Curaçao","Curaçao","Base",371,false,0
+372,"CUW005","Jurien Gaari","Curaçao","Curaçao","Base",372,false,0
+373,"CUW006","Joshua Brenet","Curaçao","Curaçao","Base",373,false,0
+374,"CUW007","Roshon Van Eijma","Curaçao","Curaçao","Base",374,false,0
+375,"CUW008","Shurandy Sambo","Curaçao","Curaçao","Base",375,false,0
+376,"CUW009","Livano Comenencia","Curaçao","Curaçao","Base",376,false,0
+377,"CUW010","Godfried Roemeratoe","Curaçao","Curaçao","Base",377,false,0
+378,"CUW011","Juninho Bacuna","Curaçao","Curaçao","Base",378,false,0
+379,"CUW012","Leandro Bacuna","Curaçao","Curaçao","Base",379,false,0
+380,"CUW013","Team Photo","Curaçao","Curaçao","Base",380,false,0
+381,"CUW014","Tahith Chong","Curaçao","Curaçao","Base",381,false,0
+382,"CUW015","Kenji Gorre","Curaçao","Curaçao","Base",382,false,0
+383,"CUW016","Jearl Margaritha","Curaçao","Curaçao","Base",383,false,0
+384,"CUW017","Jurgen Locadia","Curaçao","Curaçao","Base",384,false,0
+385,"CUW018","Jeremy Antonisse","Curaçao","Curaçao","Base",385,false,0
+386,"CUW019","Gervane Kastaneer","Curaçao","Curaçao","Base",386,false,0
+387,"CUW020","Sontje Hansen","Curaçao","Curaçao","Base",387,false,0
+388,"CIV001","Emblem","Ivory Coast","Ivory Coast","Foil",388,false,0
+389,"CIV002","Yahia Fofana","Ivory Coast","Ivory Coast","Base",389,false,0
+390,"CIV003","Ghislain Konan","Ivory Coast","Ivory Coast","Base",390,false,0
+391,"CIV004","Wilfried Singo","Ivory Coast","Ivory Coast","Base",391,false,0
+392,"CIV005","Odilon Kossounou","Ivory Coast","Ivory Coast","Base",392,false,0
+393,"CIV006","Evan Ndicka","Ivory Coast","Ivory Coast","Base",393,false,0
+394,"CIV007","Willy Boly","Ivory Coast","Ivory Coast","Base",394,false,0
+395,"CIV008","Emmanuel Agbadou","Ivory Coast","Ivory Coast","Base",395,false,0
+396,"CIV009","Ousmane Diomande","Ivory Coast","Ivory Coast","Base",396,false,0
+397,"CIV010","Franck Kessie","Ivory Coast","Ivory Coast","Base",397,false,0
+398,"CIV011","Seko Fofana","Ivory Coast","Ivory Coast","Base",398,false,0
+399,"CIV012","Ibrahim Sangare","Ivory Coast","Ivory Coast","Base",399,false,0
+400,"CIV013","Team Photo","Ivory Coast","Ivory Coast","Base",400,false,0
+401,"CIV014","Jean-Philippe Gbamin","Ivory Coast","Ivory Coast","Base",401,false,0
+402,"CIV015","Amad Diallo","Ivory Coast","Ivory Coast","Base",402,false,0
+403,"CIV016","Sébastien Haller","Ivory Coast","Ivory Coast","Base",403,false,0
+404,"CIV017","Simon Adingra","Ivory Coast","Ivory Coast","Base",404,false,0
+405,"CIV018","Yan Diomande","Ivory Coast","Ivory Coast","Base",405,false,0
+406,"CIV019","Evann Guessand","Ivory Coast","Ivory Coast","Base",406,false,0
+407,"CIV020","Oumar Diakite","Ivory Coast","Ivory Coast","Base",407,false,0
+408,"ECU001","Emblem","Ecuador","Ecuador","Foil",408,false,0
+409,"ECU002","Hernán Galíndez","Ecuador","Ecuador","Base",409,false,0
+410,"ECU003","Gonzalo Valle","Ecuador","Ecuador","Base",410,false,0
+411,"ECU004","Piero Hincapié","Ecuador","Ecuador","Base",411,false,0
+412,"ECU005","Pervis Estupiñán","Ecuador","Ecuador","Base",412,false,0
+413,"ECU006","Willian Pacho","Ecuador","Ecuador","Base",413,false,0
+414,"ECU007","Ángelo Preciado","Ecuador","Ecuador","Base",414,false,0
+415,"ECU008","Joel Ordóñez","Ecuador","Ecuador","Base",415,false,0
+416,"ECU009","Moises Caicedo","Ecuador","Ecuador","Base",416,false,0
+417,"ECU010","Alan Franco","Ecuador","Ecuador","Base",417,false,0
+418,"ECU011","Kendry Paez","Ecuador","Ecuador","Base",418,false,0
+419,"ECU012","Pedro Vite","Ecuador","Ecuador","Base",419,false,0
+420,"ECU013","Team Photo","Ecuador","Ecuador","Base",420,false,0
+421,"ECU014","John Veboah","Ecuador","Ecuador","Base",421,false,0
+422,"ECU015","Leonardo Campana","Ecuador","Ecuador","Base",422,false,0
+423,"ECU016","Gonzalo Plata","Ecuador","Ecuador","Base",423,false,0
+424,"ECU017","Nilson Angulo","Ecuador","Ecuador","Base",424,false,0
+425,"ECU018","Alan Minda","Ecuador","Ecuador","Base",425,false,0
+426,"ECU019","Kevin Rodriguez","Ecuador","Ecuador","Base",426,false,0
+427,"ECU020","Enner Valencia","Ecuador","Ecuador","Base",427,false,0
+428,"NED001","Emblem","Netherlands","Netherlands","Foil",428,false,0
+429,"NED002","Bart Verbruggen","Netherlands","Netherlands","Base",429,false,0
+430,"NED003","Virgil Van Dijk","Netherlands","Netherlands","Base",430,false,0
+431,"NED004","Micky van de Ven","Netherlands","Netherlands","Base",431,false,0
+432,"NED005","Jurien Timber","Netherlands","Netherlands","Base",432,false,0
+433,"NED006","Denzel Dumfries","Netherlands","Netherlands","Base",433,false,0
+434,"NED007","Nathan Aké","Netherlands","Netherlands","Base",434,false,0
+435,"NED008","Jereme Frimpong","Netherlands","Netherlands","Base",435,false,0
+436,"NED009","Jan Paul van Hecke","Netherlands","Netherlands","Base",436,false,0
+437,"NED010","Tijjani Reijnders","Netherlands","Netherlands","Base",437,false,0
+438,"NED011","Ryan Gravenberch","Netherlands","Netherlands","Base",438,false,0
+439,"NED012","Teun Koopmeiners","Netherlands","Netherlands","Base",439,false,0
+440,"NED013","Team Photo","Netherlands","Netherlands","Base",440,false,0
+441,"NED014","Frenkie de Jong","Netherlands","Netherlands","Base",441,false,0
+442,"NED015","Xavi Simons","Netherlands","Netherlands","Base",442,false,0
+443,"NED016","Justin Kluivert","Netherlands","Netherlands","Base",443,false,0
+444,"NED017","Memphis Depay","Netherlands","Netherlands","Base",444,false,0
+445,"NED018","Donyell Malen","Netherlands","Netherlands","Base",445,false,0
+446,"NED019","Wout Weghorst","Netherlands","Netherlands","Base",446,false,0
+447,"NED020","Cody Gakpo","Netherlands","Netherlands","Base",447,false,0
+448,"JPN001","Emblem","Japan","Japan","Foil",448,false,0
+449,"JPN002","Zion Suzuki","Japan","Japan","Base",449,false,0
+450,"JPN003","Henry Heroki Mochizuki","Japan","Japan","Base",450,false,0
+451,"JPN004","Ayumu Seko","Japan","Japan","Base",451,false,0
+452,"JPN005","Junnosuke Suzuki","Japan","Japan","Base",452,false,0
+453,"JPN006","Shogo Taniguchi","Japan","Japan","Base",453,false,0
+454,"JPN007","Tsuyoshi Watanabe","Japan","Japan","Base",454,false,0
+455,"JPN008","Kaishu Sano","Japan","Japan","Base",455,false,0
+456,"JPN009","Yuki Soma","Japan","Japan","Base",456,false,0
+457,"JPN010","Ao Tanaka","Japan","Japan","Base",457,false,0
+458,"JPN011","Daichi Kamada","Japan","Japan","Base",458,false,0
+459,"JPN012","Takefusa Kubo","Japan","Japan","Base",459,false,0
+460,"JPN013","Team Photo","Japan","Japan","Base",460,false,0
+461,"JPN014","Ritsu Doan","Japan","Japan","Base",461,false,0
+462,"JPN015","Keito Nakamura","Japan","Japan","Base",462,false,0
+463,"JPN016","Takumi Minamino","Japan","Japan","Base",463,false,0
+464,"JPN017","Shuto Machino","Japan","Japan","Base",464,false,0
+465,"JPN018","Junya Ito","Japan","Japan","Base",465,false,0
+466,"JPN019","Koki Ogawa","Japan","Japan","Base",466,false,0
+467,"JPN020","Ayase Ueda","Japan","Japan","Base",467,false,0
+468,"SWE001","Emblem","Sweden","Sweden","Foil",468,false,0
+469,"SWE002","Victor Johansson","Sweden","Sweden","Base",469,false,0
+470,"SWE003","Isak Hien","Sweden","Sweden","Base",470,false,0
+471,"SWE004","Gabriel Gudmundsson","Sweden","Sweden","Base",471,false,0
+472,"SWE005","Emil Holm","Sweden","Sweden","Base",472,false,0
+473,"SWE006","Victor Nilsson Lindelöf","Sweden","Sweden","Base",473,false,0
+474,"SWE007","Gustaf Lagerbielke","Sweden","Sweden","Base",474,false,0
+475,"SWE008","Lucas Bergvall","Sweden","Sweden","Base",475,false,0
+476,"SWE009","Hugo Larsson","Sweden","Sweden","Base",476,false,0
+477,"SWE010","Jesper Karlström","Sweden","Sweden","Base",477,false,0
+478,"SWE011","Yasin Ayari","Sweden","Sweden","Base",478,false,0
+479,"SWE012","Mattias Svanberg","Sweden","Sweden","Base",479,false,0
+480,"SWE013","Team Photo","Sweden","Sweden","Base",480,false,0
+481,"SWE014","Daniel Svensson","Sweden","Sweden","Base",481,false,0
+482,"SWE015","Ken Sema","Sweden","Sweden","Base",482,false,0
+483,"SWE016","Roony Bardghji","Sweden","Sweden","Base",483,false,0
+484,"SWE017","Dejan Kulusevski","Sweden","Sweden","Base",484,false,0
+485,"SWE018","Anthony Elanga","Sweden","Sweden","Base",485,false,0
+486,"SWE019","Alexander Isak","Sweden","Sweden","Base",486,false,0
+487,"SWE020","Viktor Gyökeres","Sweden","Sweden","Base",487,false,0
+488,"TUN001","Emblem","Tunisia","Tunisia","Foil",488,false,0
+489,"TUN002","Bechir Ben Said","Tunisia","Tunisia","Base",489,false,0
+490,"TUN003","Aymen Dahmen","Tunisia","Tunisia","Base",490,false,0
+491,"TUN004","Van Valery","Tunisia","Tunisia","Base",491,false,0
+492,"TUN005","Montassar Talbi","Tunisia","Tunisia","Base",492,false,0
+493,"TUN006","Yassine Meriah","Tunisia","Tunisia","Base",493,false,0
+494,"TUN007","Ali Abdi","Tunisia","Tunisia","Base",494,false,0
+495,"TUN008","Dylan Bronn","Tunisia","Tunisia","Base",495,false,0
+496,"TUN009","Ellyes Skhiri","Tunisia","Tunisia","Base",496,false,0
+497,"TUN010","Aissa Laidouni","Tunisia","Tunisia","Base",497,false,0
+498,"TUN011","Ferjani Sassi","Tunisia","Tunisia","Base",498,false,0
+499,"TUN012","Mohamed Ali Ben Romdhane","Tunisia","Tunisia","Base",499,false,0
+500,"TUN013","Team Photo","Tunisia","Tunisia","Base",500,false,0
+501,"TUN014","Hannibal Mejbri","Tunisia","Tunisia","Base",501,false,0
+502,"TUN015","Elias Achouri","Tunisia","Tunisia","Base",502,false,0
+503,"TUN016","Elias Saad","Tunisia","Tunisia","Base",503,false,0
+504,"TUN017","Hazem Mastouri","Tunisia","Tunisia","Base",504,false,0
+505,"TUN018","Ismael Gharbi","Tunisia","Tunisia","Base",505,false,0
+506,"TUN019","Sayfallah Ltaief","Tunisia","Tunisia","Base",506,false,0
+507,"TUN020","Naim Sliti","Tunisia","Tunisia","Base",507,false,0
+508,"BEL001","Emblem","Belgium","Belgium","Foil",508,false,0
+509,"BEL002","Thibaut Courtois","Belgium","Belgium","Base",509,false,0
+510,"BEL003","Arthur Theate","Belgium","Belgium","Base",510,false,0
+511,"BEL004","Timothy Castagne","Belgium","Belgium","Base",511,false,0
+512,"BEL005","Zeno Debast","Belgium","Belgium","Base",512,false,0
+513,"BEL006","Brandon Mechele","Belgium","Belgium","Base",513,false,0
+514,"BEL007","Maxim De Cuyper","Belgium","Belgium","Base",514,false,0
+515,"BEL008","Thomas Meunier","Belgium","Belgium","Base",515,false,0
+516,"BEL009","Youri Tielemans","Belgium","Belgium","Base",516,false,0
+517,"BEL010","Amadou Onana","Belgium","Belgium","Base",517,false,0
+518,"BEL011","Nicolas Raskin","Belgium","Belgium","Base",518,false,0
+519,"BEL012","Alexis Saelemaekers","Belgium","Belgium","Base",519,false,0
+520,"BEL013","Team Photo","Belgium","Belgium","Base",520,false,0
+521,"BEL014","Hans Vanaken","Belgium","Belgium","Base",521,false,0
+522,"BEL015","Kevin De Bruyne","Belgium","Belgium","Base",522,false,0
+523,"BEL016","Jérémy Doku","Belgium","Belgium","Base",523,false,0
+524,"BEL017","Charles De Ketelaere","Belgium","Belgium","Base",524,false,0
+525,"BEL018","Leandro Trossard","Belgium","Belgium","Base",525,false,0
+526,"BEL019","Loïs Openda","Belgium","Belgium","Base",526,false,0
+527,"BEL020","Romelu Lukaku","Belgium","Belgium","Base",527,false,0
+528,"BEL002s","Thibaut Courtois","Belgium","Belgium","Silver",528,false,0
+529,"BEL003s","Arthur Theate","Belgium","Belgium","Silver",529,false,0
+530,"BEL004s","Timothy Castagne","Belgium","Belgium","Silver",530,false,0
+531,"BEL005s","Zeno Debast","Belgium","Belgium","Silver",531,false,0
+532,"BEL006s","Brandon Mechele","Belgium","Belgium","Silver",532,false,0
+533,"BEL007s","Maxim De Cuyper","Belgium","Belgium","Silver",533,false,0
+534,"BEL008s","Thomas Meunier","Belgium","Belgium","Silver",534,false,0
+535,"BEL009s","Youri Tielemans","Belgium","Belgium","Silver",535,false,0
+536,"BEL010s","Amadou Onana","Belgium","Belgium","Silver",536,false,0
+537,"BEL011s","Nicolas Raskin","Belgium","Belgium","Silver",537,false,0
+538,"BEL012s","Alexis Saelemaekers","Belgium","Belgium","Silver",538,false,0
+539,"BEL014s","Hans Vanaken","Belgium","Belgium","Silver",539,false,0
+540,"BEL015s","Kevin De Bruyne","Belgium","Belgium","Silver",540,false,0
+541,"BEL016s","Jérémy Doku","Belgium","Belgium","Silver",541,false,0
+542,"BEL017s","Charles De Ketelaere","Belgium","Belgium","Silver",542,false,0
+543,"BEL018s","Leandro Trossard","Belgium","Belgium","Silver",543,false,0
+544,"BEL019s","Loïs Openda","Belgium","Belgium","Silver",544,false,0
+545,"BEL020s","Romelu Lukaku","Belgium","Belgium","Silver",545,false,0
+546,"EGY001","Emblem","Egypt","Egypt","Foil",546,false,0
+547,"EGY002","Mohamed El Shenawy","Egypt","Egypt","Base",547,false,0
+548,"EGY003","Mohamed Hany","Egypt","Egypt","Base",548,false,0
+549,"EGY004","Mohamed Hamdy","Egypt","Egypt","Base",549,false,0
+550,"EGY005","Yasser Ibrahim","Egypt","Egypt","Base",550,false,0
+551,"EGY006","Khaled Sobhi","Egypt","Egypt","Base",551,false,0
+552,"EGY007","Ramy Rabia","Egypt","Egypt","Base",552,false,0
+553,"EGY008","Hossam Abdelmaguid","Egypt","Egypt","Base",553,false,0
+554,"EGY009","Ahmed Fatouh","Egypt","Egypt","Base",554,false,0
+555,"EGY010","Marwan Attia","Egypt","Egypt","Base",555,false,0
+556,"EGY011","Zizo","Egypt","Egypt","Base",556,false,0
+557,"EGY012","Hamdy Fathy","Egypt","Egypt","Base",557,false,0
+558,"EGY013","Team Photo","Egypt","Egypt","Base",558,false,0
+559,"EGY014","Mohamed Lasheen","Egypt","Egypt","Base",559,false,0
+560,"EGY015","Emam Ashour","Egypt","Egypt","Base",560,false,0
+561,"EGY016","Osama Faisal","Egypt","Egypt","Base",561,false,0
+562,"EGY017","Mohamed Salah","Egypt","Egypt","Base",562,false,0
+563,"EGY018","Mostafa Mohamed","Egypt","Egypt","Base",563,false,0
+564,"EGY019","Trezeguet","Egypt","Egypt","Base",564,false,0
+565,"EGY020","Omar Marsmoush","Egypt","Egypt","Base",565,false,0
+566,"IRN001","Emblem","Iran","Iran","Foil",566,false,0
+567,"IRN002","Alirez Beiranvand","Iran","Iran","Base",567,false,0
+568,"IRN003","Morteza Pouraliganji","Iran","Iran","Base",568,false,0
+569,"IRN004","Ehsan Hajsafi","Iran","Iran","Base",569,false,0
+570,"IRN005","Milad Mohammadi","Iran","Iran","Base",570,false,0
+571,"IRN006","Shojae Khalilzadeh","Iran","Iran","Base",571,false,0
+572,"IRN007","Ramin Rezaeian","Iran","Iran","Base",572,false,0
+573,"IRN008","Hossein Kanaani","Iran","Iran","Base",573,false,0
+574,"IRN009","Sadegh Moharrami","Iran","Iran","Base",574,false,0
+575,"IRN010","Saleh Hardani","Iran","Iran","Base",575,false,0
+576,"IRN011","Saeed Ezatolahi","Iran","Iran","Base",576,false,0
+577,"IRN012","Saman Ghoddos","Iran","Iran","Base",577,false,0
+578,"IRN013","Team Photo","Iran","Iran","Base",578,false,0
+579,"IRN014","Omid Noorafkan","Iran","Iran","Base",579,false,0
+580,"IRN015","Roozbeh Cheshmi","Iran","Iran","Base",580,false,0
+581,"IRN016","Mohammad Mohebi","Iran","Iran","Base",581,false,0
+582,"IRN017","Sardar Azmoun","Iran","Iran","Base",582,false,0
+583,"IRN018","Mehdi Taremi","Iran","Iran","Base",583,false,0
+584,"IRN019","Alireza Jahanbakhsh","Iran","Iran","Base",584,false,0
+585,"IRN020","Ali Gholizadeh","Iran","Iran","Base",585,false,0
+586,"NZL001","Emblem","New Zealand","New Zealand","Foil",586,false,0
+587,"NZL002","Max Crocombe Payne","New Zealand","New Zealand","Base",587,false,0
+588,"NZL003","Alex Paulsen","New Zealand","New Zealand","Base",588,false,0
+589,"NZL004","Michael Boxall","New Zealand","New Zealand","Base",589,false,0
+590,"NZL005","Liberato Cacace","New Zealand","New Zealand","Base",590,false,0
+591,"NZL006","Tim Payne","New Zealand","New Zealand","Base",591,false,0
+592,"NZL007","Tyler Bindon","New Zealand","New Zealand","Base",592,false,0
+593,"NZL008","Francis de Vries","New Zealand","New Zealand","Base",593,false,0
+594,"NZL009","Finn Surman","New Zealand","New Zealand","Base",594,false,0
+595,"NZL010","Joe Bell","New Zealand","New Zealand","Base",595,false,0
+596,"NZL011","Sarpreet Singh","New Zealand","New Zealand","Base",596,false,0
+597,"NZL012","Ryan Thomas","New Zealand","New Zealand","Base",597,false,0
+598,"NZL013","Team Photo","New Zealand","New Zealand","Base",598,false,0
+599,"NZL014","Matthew Garbett","New Zealand","New Zealand","Base",599,false,0
+600,"NZL015","Marko Stamenić","New Zealand","New Zealand","Base",600,false,0
+601,"NZL016","Ben Old","New Zealand","New Zealand","Base",601,false,0
+602,"NZL017","Chris Wood","New Zealand","New Zealand","Base",602,false,0
+603,"NZL018","Elijah Just","New Zealand","New Zealand","Base",603,false,0
+604,"NZL019","Callum McCowatt","New Zealand","New Zealand","Base",604,false,0
+605,"NZL020","Kosta Barbarouses","New Zealand","New Zealand","Base",605,false,0
+606,"ESP001","Emblem","Spain","Spain","Foil",606,false,0
+607,"ESP002","Unai Simon","Spain","Spain","Base",607,false,0
+608,"ESP003","Robin Le Normand","Spain","Spain","Base",608,false,0
+609,"ESP004","Aymeric Laporte","Spain","Spain","Base",609,false,0
+610,"ESP005","Dean Huijsen","Spain","Spain","Base",610,false,0
+611,"ESP006","Pedro Porro","Spain","Spain","Base",611,false,0
+612,"ESP007","Dani Carvajal","Spain","Spain","Base",612,false,0
+613,"ESP008","Marc Cucurella","Spain","Spain","Base",613,false,0
+614,"ESP009","Martín Zubimendi","Spain","Spain","Base",614,false,0
+615,"ESP010","Rodri","Spain","Spain","Base",615,false,0
+616,"ESP011","Pedri","Spain","Spain","Base",616,false,0
+617,"ESP012","Fabian Ruiz","Spain","Spain","Base",617,false,0
+618,"ESP013","Team Photo","Spain","Spain","Base",618,false,0
+619,"ESP014","Mikel Merino","Spain","Spain","Base",619,false,0
+620,"ESP015","Lamine Yamal","Spain","Spain","Base",620,false,0
+621,"ESP016","Dani Olmo","Spain","Spain","Base",621,false,0
+622,"ESP017","Nico Williams","Spain","Spain","Base",622,false,0
+623,"ESP018","Ferran Torres","Spain","Spain","Base",623,false,0
+624,"ESP019","Álvaro Morata","Spain","Spain","Base",624,false,0
+625,"ESP020","Mikel Oyarzabal","Spain","Spain","Base",625,false,0
+626,"CPV001","Emblem","Cape Verde","Cape Verde","Foil",626,false,0
+627,"CPV002","Vozinha","Cape Verde","Cape Verde","Base",627,false,0
+628,"CPV003","Logan Costa","Cape Verde","Cape Verde","Base",628,false,0
+629,"CPV004","Pico","Cape Verde","Cape Verde","Base",629,false,0
+630,"CPV005","Diney","Cape Verde","Cape Verde","Base",630,false,0
+631,"CPV006","Steven Moreira","Cape Verde","Cape Verde","Base",631,false,0
+632,"CPV007","Wagner Pina","Cape Verde","Cape Verde","Base",632,false,0
+633,"CPV008","Joao Paulo","Cape Verde","Cape Verde","Base",633,false,0
+634,"CPV009","Yannick Semedo","Cape Verde","Cape Verde","Base",634,false,0
+635,"CPV010","Kevin Pina","Cape Verde","Cape Verde","Base",635,false,0
+636,"CPV011","Patrick Andrade","Cape Verde","Cape Verde","Base",636,false,0
+637,"CPV012","Jamiro Monteiro","Cape Verde","Cape Verde","Base",637,false,0
+638,"CPV013","Team Photo","Cape Verde","Cape Verde","Base",638,false,0
+639,"CPV014","Deroy Duarte","Cape Verde","Cape Verde","Base",639,false,0
+640,"CPV015","Garry Rodrigues","Cape Verde","Cape Verde","Base",640,false,0
+641,"CPV016","Jovane Cabral","Cape Verde","Cape Verde","Base",641,false,0
+642,"CPV017","Ryan Mendes","Cape Verde","Cape Verde","Base",642,false,0
+643,"CPV018","Dailon Livramento","Cape Verde","Cape Verde","Base",643,false,0
+644,"CPV019","Willy Semedo","Cape Verde","Cape Verde","Base",644,false,0
+645,"CPV020","Bebe","Cape Verde","Cape Verde","Base",645,false,0
+646,"KSA001","Emblem","Saudi Arabia","Saudi Arabia","Foil",646,false,0
+647,"KSA002","Nawaf Alaqidi","Saudi Arabia","Saudi Arabia","Base",647,false,0
+648,"KSA003","Abdulrahman Al-Sanbi","Saudi Arabia","Saudi Arabia","Base",648,false,0
+649,"KSA004","Saud Abdulhamid","Saudi Arabia","Saudi Arabia","Base",649,false,0
+650,"KSA005","Nawaf Bouwashl","Saudi Arabia","Saudi Arabia","Base",650,false,0
+651,"KSA006","Jihad Thakri","Saudi Arabia","Saudi Arabia","Base",651,false,0
+652,"KSA007","Moteb Al-Harbi","Saudi Arabia","Saudi Arabia","Base",652,false,0
+653,"KSA008","Hassan Altambakti","Saudi Arabia","Saudi Arabia","Base",653,false,0
+654,"KSA009","Musab Aljuwayr","Saudi Arabia","Saudi Arabia","Base",654,false,0
+655,"KSA010","Ziyad Aljohani","Saudi Arabia","Saudi Arabia","Base",655,false,0
+656,"KSA011","Abdullah Alkhaibari","Saudi Arabia","Saudi Arabia","Base",656,false,0
+657,"KSA012","Nasser Aldawsari","Saudi Arabia","Saudi Arabia","Base",657,false,0
+658,"KSA013","Team Photo","Saudi Arabia","Saudi Arabia","Base",658,false,0
+659,"KSA014","Saleh Abu Alshamat","Saudi Arabia","Saudi Arabia","Base",659,false,0
+660,"KSA015","Marwan Alsahafi","Saudi Arabia","Saudi Arabia","Base",660,false,0
+661,"KSA016","Salem Aldawsari","Saudi Arabia","Saudi Arabia","Base",661,false,0
+662,"KSA017","Abdulrahman Al-Aboud","Saudi Arabia","Saudi Arabia","Base",662,false,0
+663,"KSA018","Feras Akbrikan","Saudi Arabia","Saudi Arabia","Base",663,false,0
+664,"KSA019","Saleh Alshehri","Saudi Arabia","Saudi Arabia","Base",664,false,0
+665,"KSA020","Abdullah Al-Hamdan","Saudi Arabia","Saudi Arabia","Base",665,false,0
+666,"URU001","Emblem","Uruguay","Uruguay","Foil",666,false,0
+667,"URU002","Sergio Rochet","Uruguay","Uruguay","Base",667,false,0
+668,"URU003","Santiago Mele","Uruguay","Uruguay","Base",668,false,0
+669,"URU004","Ronald Araujo","Uruguay","Uruguay","Base",669,false,0
+670,"URU005","José María Giménez","Uruguay","Uruguay","Base",670,false,0
+671,"URU006","Sebastian Caceres","Uruguay","Uruguay","Base",671,false,0
+672,"URU007","Mathias Olivera","Uruguay","Uruguay","Base",672,false,0
+673,"URU008","Guillermo Varela","Uruguay","Uruguay","Base",673,false,0
+674,"URU009","Nahitan Nandez","Uruguay","Uruguay","Base",674,false,0
+675,"URU010","Federico Valverde","Uruguay","Uruguay","Base",675,false,0
+676,"URU011","Giorgian De Arrascaeta","Uruguay","Uruguay","Base",676,false,0
+677,"URU012","Rodrigo Bentancur","Uruguay","Uruguay","Base",677,false,0
+678,"URU013","Team Photo","Uruguay","Uruguay","Base",678,false,0
+679,"URU014","Manuel Ugarte","Uruguay","Uruguay","Base",679,false,0
+680,"URU015","Nicolás de la Cruz","Uruguay","Uruguay","Base",680,false,0
+681,"URU016","Maxi Araujo","Uruguay","Uruguay","Base",681,false,0
+682,"URU017","Darwin Núñez","Uruguay","Uruguay","Base",682,false,0
+683,"URU018","Federico Viñas","Uruguay","Uruguay","Base",683,false,0
+684,"URU019","Rodrigo Aguirre","Uruguay","Uruguay","Base",684,false,0
+685,"URU020","Facundo Pellistri","Uruguay","Uruguay","Base",685,false,0
+686,"FRA001","Emblem","France","France","Foil",686,false,0
+687,"FRA002","Mike Maignan","France","France","Base",687,false,0
+688,"FRA003","Theo Hernandez","France","France","Base",688,false,0
+689,"FRA004","William Saliba","France","France","Base",689,false,0
+690,"FRA005","Jules Kounde","France","France","Base",690,false,0
+691,"FRA006","Ibrahima Konate","France","France","Base",691,false,0
+692,"FRA007","Dayot Upamecano","France","France","Base",692,false,0
+693,"FRA008","Lucas Digne","France","France","Base",693,false,0
+694,"FRA009","Aurélien Tchouaméni","France","France","Base",694,false,0
+695,"FRA010","Eduardo Camavinga","France","France","Base",695,false,0
+696,"FRA011","Manu Kone","France","France","Base",696,false,0
+697,"FRA012","Adrien Rabiot","France","France","Base",697,false,0
+698,"FRA013","Team Photo","France","France","Base",698,false,0
+699,"FRA014","Michael Olise","France","France","Base",699,false,0
+700,"FRA015","Ousmane Dembele","France","France","Base",700,false,0
+701,"FRA016","Bradley Barcola","France","France","Base",701,false,0
+702,"FRA017","Désiré Doué","France","France","Base",702,false,0
+703,"FRA018","Kingsley Coman","France","France","Base",703,false,0
+704,"FRA019","Hugo Ekitike","France","France","Base",704,false,0
+705,"FRA020","Kylian Mbappe","France","France","Base",705,false,0
+706,"SEN001","Emblem","Senegal","Senegal","Foil",706,false,0
+707,"SEN002","Eduardo Mendy","Senegal","Senegal","Base",707,false,0
+708,"SEN003","Yehvann Diouf","Senegal","Senegal","Base",708,false,0
+709,"SEN004","Moussa Niakhaté","Senegal","Senegal","Base",709,false,0
+710,"SEN005","Abdoulaye Seck","Senegal","Senegal","Base",710,false,0
+711,"SEN006","Ismail Jakobs","Senegal","Senegal","Base",711,false,0
+712,"SEN007","El Hadji Malick Diouf","Senegal","Senegal","Base",712,false,0
+713,"SEN008","Kalidou Koulibaly","Senegal","Senegal","Base",713,false,0
+714,"SEN009","Idrissa Gana Gueye","Senegal","Senegal","Base",714,false,0
+715,"SEN010","Pape Matar Sarr","Senegal","Senegal","Base",715,false,0
+716,"SEN011","Pape Gueye","Senegal","Senegal","Base",716,false,0
+717,"SEN012","Habib Diarra","Senegal","Senegal","Base",717,false,0
+718,"SEN013","Team Photo","Senegal","Senegal","Base",718,false,0
+719,"SEN014","Lamine Camara","Senegal","Senegal","Base",719,false,0
+720,"SEN015","Sadio Mane","Senegal","Senegal","Base",720,false,0
+721,"SEN016","Ismaïla Sarr","Senegal","Senegal","Base",721,false,0
+722,"SEN017","Boulaye Dia","Senegal","Senegal","Base",722,false,0
+723,"SEN018","Iliman Ndiaye","Senegal","Senegal","Base",723,false,0
+724,"SEN019","Nicolas Jackson","Senegal","Senegal","Base",724,false,0
+725,"SEN020","Krepin Diatta","Senegal","Senegal","Base",725,false,0
+726,"IRQ001","Emblem","Iraq","Iraq","Foil",726,false,0
+727,"IRQ002","Jalal Hassan","Iraq","Iraq","Base",727,false,0
+728,"IRQ003","Rebin Sulaka","Iraq","Iraq","Base",728,false,0
+729,"IRQ004","Hussein Ali","Iraq","Iraq","Base",729,false,0
+730,"IRQ005","Akam Hashem","Iraq","Iraq","Base",730,false,0
+731,"IRQ006","Merchas Doski","Iraq","Iraq","Base",731,false,0
+732,"IRQ007","Zaid Tahseen","Iraq","Iraq","Base",732,false,0
+733,"IRQ008","Manaf Younis","Iraq","Iraq","Base",733,false,0
+734,"IRQ009","Zidane Iqbal","Iraq","Iraq","Base",734,false,0
+735,"IRQ010","Amir Al-Ammari","Iraq","Iraq","Base",735,false,0
+736,"IRQ011","Ibrahim Bavesh","Iraq","Iraq","Base",736,false,0
+737,"IRQ012","Ali Jasim","Iraq","Iraq","Base",737,false,0
+738,"IRQ013","Team Photo","Iraq","Iraq","Base",738,false,0
+739,"IRQ014","Youssef Amyn","Iraq","Iraq","Base",739,false,0
+740,"IRQ015","Aimar Sher","Iraq","Iraq","Base",740,false,0
+741,"IRQ016","Marko Farji","Iraq","Iraq","Base",741,false,0
+742,"IRQ017","Osama Rashid","Iraq","Iraq","Base",742,false,0
+743,"IRQ018","Ali Al-Hamadi","Iraq","Iraq","Base",743,false,0
+744,"IRQ019","Aymen Hussein","Iraq","Iraq","Base",744,false,0
+745,"IRQ020","Mohanad Ali","Iraq","Iraq","Base",745,false,0
+746,"NOR001","Emblem","Norway","Norway","Foil",746,false,0
+747,"NOR002","Orjan Nyland","Norway","Norway","Base",747,false,0
+748,"NOR003","Julian Ryerson","Norway","Norway","Base",748,false,0
+749,"NOR004","Leo Ostigård","Norway","Norway","Base",749,false,0
+750,"NOR005","Kristoffer Vassbakk Ajer","Norway","Norway","Base",750,false,0
+751,"NOR006","Marcus Holmgren Pedersen","Norway","Norway","Base",751,false,0
+752,"NOR007","David Møller Wolfe","Norway","Norway","Base",752,false,0
+753,"NOR008","Torbjørn Heggem","Norway","Norway","Base",753,false,0
+754,"NOR009","Morten Thorsby","Norway","Norway","Base",754,false,0
+755,"NOR010","Martin Ødegaard","Norway","Norway","Base",755,false,0
+756,"NOR011","Sander Berge","Norway","Norway","Base",756,false,0
+757,"NOR012","Andreas Schjelderup","Norway","Norway","Base",757,false,0
+758,"NOR013","Team Photo","Norway","Norway","Base",758,false,0
+759,"NOR014","Patrick Berg","Norway","Norway","Base",759,false,0
+760,"NOR015","Erling Haaland","Norway","Norway","Base",760,false,0
+761,"NOR016","Alexander Sørloth","Norway","Norway","Base",761,false,0
+762,"NOR017","Aron Dønnum","Norway","Norway","Base",762,false,0
+763,"NOR018","Jorgen Strand Larsen","Norway","Norway","Base",763,false,0
+764,"NOR019","Antonio Nusa","Norway","Norway","Base",764,false,0
+765,"NOR020","Oscar Bobb","Norway","Norway","Base",765,false,0
+766,"ARG001","Emblem","Argentina","Argentina","Foil",766,false,0
+767,"ARG002","Emiliano Martinez","Argentina","Argentina","Base",767,false,0
+768,"ARG003","Nahuel Molina","Argentina","Argentina","Base",768,false,0
+769,"ARG004","Cristian Romero","Argentina","Argentina","Base",769,false,0
+770,"ARG005","Nicolas Otamendi","Argentina","Argentina","Base",770,false,0
+771,"ARG006","Nicolas Tagliafico","Argentina","Argentina","Base",771,false,0
+772,"ARG007","Leonardo Balerdi","Argentina","Argentina","Base",772,false,0
+773,"ARG008","Enzo Fernandez","Argentina","Argentina","Base",773,false,0
+774,"ARG009","Alexis Mac Allister","Argentina","Argentina","Base",774,false,0
+775,"ARG010","Rodrigo De Paul","Argentina","Argentina","Base",775,false,0
+776,"ARG011","Exequiel Palacios","Argentina","Argentina","Base",776,false,0
+777,"ARG012","Leandro Paredes","Argentina","Argentina","Base",777,false,0
+778,"ARG013","Team Photo","Argentina","Argentina","Base",778,false,0
+779,"ARG014","Nico Paz","Argentina","Argentina","Base",779,false,0
+780,"ARG015","Franco Mastantuono","Argentina","Argentina","Base",780,false,0
+781,"ARG016","Nico Gonzalez","Argentina","Argentina","Base",781,false,0
+782,"ARG017","Lionel Messi","Argentina","Argentina","Base",782,false,0
+783,"ARG018","Lautaro Martinez","Argentina","Argentina","Base",783,false,0
+784,"ARG019","Julian Alvarez","Argentina","Argentina","Base",784,false,0
+785,"ARG020","Giuliano Simeone","Argentina","Argentina","Base",785,false,0
+786,"ALG001","Emblem","Algeria","Algeria","Foil",786,false,0
+787,"ALG002","Alexis Guendouz","Algeria","Algeria","Base",787,false,0
+788,"ALG003","Ramy Bensebaini","Algeria","Algeria","Base",788,false,0
+789,"ALG004","Youcef Atal","Algeria","Algeria","Base",789,false,0
+790,"ALG005","Rayan Aït-Nouri","Algeria","Algeria","Base",790,false,0
+791,"ALG006","Mohamed Amine Tougai","Algeria","Algeria","Base",791,false,0
+792,"ALG007","Aïssa Mandi","Algeria","Algeria","Base",792,false,0
+793,"ALG008","Ismael Bennacer","Algeria","Algeria","Base",793,false,0
+794,"ALG009","Houssem Aquar","Algeria","Algeria","Base",794,false,0
+795,"ALG010","Hicham Boudaoui","Algeria","Algeria","Base",795,false,0
+796,"ALG011","Ramiz Zerrouki","Algeria","Algeria","Base",796,false,0
+797,"ALG012","Nabil Bentalab","Algeria","Algeria","Base",797,false,0
+798,"ALG013","Team Photo","Algeria","Algeria","Base",798,false,0
+799,"ALG014","Farés Chaibi","Algeria","Algeria","Base",799,false,0
+800,"ALG015","Riyad Mahrez","Algeria","Algeria","Base",800,false,0
+801,"ALG016","Said Benrahma","Algeria","Algeria","Base",801,false,0
+802,"ALG017","Anis Hadj Moussa","Algeria","Algeria","Base",802,false,0
+803,"ALG018","Amine Gouiri","Algeria","Algeria","Base",803,false,0
+804,"ALG019","Baghdad Bounedjah","Algeria","Algeria","Base",804,false,0
+805,"ALG020","Mohammed Amoura","Algeria","Algeria","Base",805,false,0
+806,"AUT001","Emblem","Austria","Austria","Foil",806,false,0
+807,"AUT002","Alexander Schlager","Austria","Austria","Base",807,false,0
+808,"AUT003","Patrick Pentz","Austria","Austria","Base",808,false,0
+809,"AUT004","David Alaba","Austria","Austria","Base",809,false,0
+810,"AUT005","Kevin Danso","Austria","Austria","Base",810,false,0
+811,"AUT006","Philipp Lienhart","Austria","Austria","Base",811,false,0
+812,"AUT007","Stefan Posch","Austria","Austria","Base",812,false,0
+813,"AUT008","Phillipp Mwene","Austria","Austria","Base",813,false,0
+814,"AUT009","Alexander Prass","Austria","Austria","Base",814,false,0
+815,"AUT010","Xavier Schlager","Austria","Austria","Base",815,false,0
+816,"AUT011","Marcel Sabitzer","Austria","Austria","Base",816,false,0
+817,"AUT012","Konrad Laimer","Austria","Austria","Base",817,false,0
+818,"AUT013","Team Photo","Austria","Austria","Base",818,false,0
+819,"AUT014","Florian Grillitsch","Austria","Austria","Base",819,false,0
+820,"AUT015","Nicolas Seiwald","Austria","Austria","Base",820,false,0
+821,"AUT016","Romano Schmid","Austria","Austria","Base",821,false,0
+822,"AUT017","Patrick Wimmer","Austria","Austria","Base",822,false,0
+823,"AUT018","Christoph Baumgartner","Austria","Austria","Base",823,false,0
+824,"AUT019","Michael Gregoritsch","Austria","Austria","Base",824,false,0
+825,"AUT020","Marko Arnautović","Austria","Austria","Base",825,false,0
+826,"JOR001","Emblem","Jordan","Jordan","Foil",826,false,0
+827,"JOR002","Yazeed Abulaila","Jordan","Jordan","Base",827,false,0
+828,"JOR003","Ihsan Haddad","Jordan","Jordan","Base",828,false,0
+829,"JOR004","Mohammad Abu Hashish","Jordan","Jordan","Base",829,false,0
+830,"JOR005","Yazan Al-Arab","Jordan","Jordan","Base",830,false,0
+831,"JOR006","Abdallah Nasib","Jordan","Jordan","Base",831,false,0
+832,"JOR007","Saleem Obaid","Jordan","Jordan","Base",832,false,0
+833,"JOR008","Mohammad Abualnadi","Jordan","Jordan","Base",833,false,0
+834,"JOR009","Ibrahim Saadeh","Jordan","Jordan","Base",834,false,0
+835,"JOR010","Nizar Al-Rashdan","Jordan","Jordan","Base",835,false,0
+836,"JOR011","Noor Al-Rawabdeh","Jordan","Jordan","Base",836,false,0
+837,"JOR012","Mohannad Abu Taha","Jordan","Jordan","Base",837,false,0
+838,"JOR013","Team Photo","Jordan","Jordan","Base",838,false,0
+839,"JOR014","Amer Jamous","Jordan","Jordan","Base",839,false,0
+840,"JOR015","Musa Al-Taamari","Jordan","Jordan","Base",840,false,0
+841,"JOR016","Yazan Al-Naimat","Jordan","Jordan","Base",841,false,0
+842,"JOR017","Mahmoud Al-Mardi","Jordan","Jordan","Base",842,false,0
+843,"JOR018","Ali Olwan","Jordan","Jordan","Base",843,false,0
+844,"JOR019","Mohammad Abu Zrayq","Jordan","Jordan","Base",844,false,0
+845,"JOR020","Ibrahim Sabra","Jordan","Jordan","Base",845,false,0
+846,"POR001","Emblem","Portugal","Portugal","Foil",846,false,0
+847,"POR002","Diogo Costa","Portugal","Portugal","Base",847,false,0
+848,"POR003","Jose Sa","Portugal","Portugal","Base",848,false,0
+849,"POR004","Ruben Dias","Portugal","Portugal","Base",849,false,0
+850,"POR005","João Cancelo","Portugal","Portugal","Base",850,false,0
+851,"POR006","Diogo Dalot","Portugal","Portugal","Base",851,false,0
+852,"POR007","Nuno Mendes","Portugal","Portugal","Base",852,false,0
+853,"POR008","Gonçalo Inácio","Portugal","Portugal","Base",853,false,0
+854,"POR009","Bernardo Silva","Portugal","Portugal","Base",854,false,0
+855,"POR010","Bruno Fernandes","Portugal","Portugal","Base",855,false,0
+856,"POR011","Ruben Neves","Portugal","Portugal","Base",856,false,0
+857,"POR012","Vitinha","Portugal","Portugal","Base",857,false,0
+858,"POR013","Team Photo","Portugal","Portugal","Base",858,false,0
+859,"POR014","João Neves","Portugal","Portugal","Base",859,false,0
+860,"POR015","Cristiano Ronaldo","Portugal","Portugal","Base",860,false,0
+861,"POR016","Francisco Trincao","Portugal","Portugal","Base",861,false,0
+862,"POR017","João Felix","Portugal","Portugal","Base",862,false,0
+863,"POR018","Gonçalo Ramos","Portugal","Portugal","Base",863,false,0
+864,"POR019","Pedro Neto","Portugal","Portugal","Base",864,false,0
+865,"POR020","Rafael Leão","Portugal","Portugal","Base",865,false,0
+866,"COD001","Emblem","Congo DR","Congo DR","Foil",866,false,0
+867,"COD002","Lionel Mpasi","Congo DR","Congo DR","Base",867,false,0
+868,"COD003","Aaron Wan-Bissaka","Congo DR","Congo DR","Base",868,false,0
+869,"COD004","Axel Tuanzebe","Congo DR","Congo DR","Base",869,false,0
+870,"COD005","Arthur Masuaku","Congo DR","Congo DR","Base",870,false,0
+871,"COD006","Chancel Mbemba","Congo DR","Congo DR","Base",871,false,0
+872,"COD007","Joris Kayembe","Congo DR","Congo DR","Base",872,false,0
+873,"COD008","Charles Pickel","Congo DR","Congo DR","Base",873,false,0
+874,"COD009","Ngal'ayel Mukau","Congo DR","Congo DR","Base",874,false,0
+875,"COD010","Edo Kayembe","Congo DR","Congo DR","Base",875,false,0
+876,"COD011","Samuel Moutoussamy","Congo DR","Congo DR","Base",876,false,0
+877,"COD012","Noah Sadiki","Congo DR","Congo DR","Base",877,false,0
+878,"COD013","Team Photo","Congo DR","Congo DR","Base",878,false,0
+879,"COD014","Théo Bongonda","Congo DR","Congo DR","Base",879,false,0
+880,"COD015","Meschak Elia","Congo DR","Congo DR","Base",880,false,0
+881,"COD016","Yoane Wissa","Congo DR","Congo DR","Base",881,false,0
+882,"COD017","Brian Cipenga","Congo DR","Congo DR","Base",882,false,0
+883,"COD018","Fiston Mayele","Congo DR","Congo DR","Base",883,false,0
+884,"COD019","Cédric Bakambu","Congo DR","Congo DR","Base",884,false,0
+885,"COD020","Nathanaël Mbuku","Congo DR","Congo DR","Base",885,false,0
+886,"UZB001","Emblem","Uzbekistan","Uzbekistan","Foil",886,false,0
+887,"UZB002","Utkir Yusupov","Uzbekistan","Uzbekistan","Base",887,false,0
+888,"UZB003","Farrukh Savfiev","Uzbekistan","Uzbekistan","Base",888,false,0
+889,"UZB004","Sherzod Nasrullaev","Uzbekistan","Uzbekistan","Base",889,false,0
+890,"UZB005","Umar Eshmurodov","Uzbekistan","Uzbekistan","Base",890,false,0
+891,"UZB006","Husniddin Aliqulov","Uzbekistan","Uzbekistan","Base",891,false,0
+892,"UZB007","Rustamjon Ashurmatov","Uzbekistan","Uzbekistan","Base",892,false,0
+893,"UZB008","Khojiakbar Alijonov","Uzbekistan","Uzbekistan","Base",893,false,0
+894,"UZB009","Abdukodir Khusanov","Uzbekistan","Uzbekistan","Base",894,false,0
+895,"UZB010","Odiljon Hamrobekov","Uzbekistan","Uzbekistan","Base",895,false,0
+896,"UZB011","Otabek Shukurov","Uzbekistan","Uzbekistan","Base",896,false,0
+897,"UZB012","Jamshid Iskanderov","Uzbekistan","Uzbekistan","Base",897,false,0
+898,"UZB013","Team Photo","Uzbekistan","Uzbekistan","Base",898,false,0
+899,"UZB014","Azizbek Turgunboev","Uzbekistan","Uzbekistan","Base",899,false,0
+900,"UZB015","Khojimat Erkinov","Uzbekistan","Uzbekistan","Base",900,false,0
+901,"UZB016","Eldor Shomurodov","Uzbekistan","Uzbekistan","Base",901,false,0
+902,"UZB017","Oston Urunov","Uzbekistan","Uzbekistan","Base",902,false,0
+903,"UZB018","Jaloliddin Masharipov","Uzbekistan","Uzbekistan","Base",903,false,0
+904,"UZB019","Igor Sergeev","Uzbekistan","Uzbekistan","Base",904,false,0
+905,"UZB020","Abbosbek Fayzullaev","Uzbekistan","Uzbekistan","Base",905,false,0
+906,"COL001","Emblem","Colombia","Colombia","Foil",906,false,0
+907,"COL002","Camilo Vargas","Colombia","Colombia","Base",907,false,0
+908,"COL003","David Ospina","Colombia","Colombia","Base",908,false,0
+909,"COL004","Dávinson Sánchez","Colombia","Colombia","Base",909,false,0
+910,"COL005","Yerry Mina","Colombia","Colombia","Base",910,false,0
+911,"COL006","Daniel Munoz","Colombia","Colombia","Base",911,false,0
+912,"COL007","Johan Mojica","Colombia","Colombia","Base",912,false,0
+913,"COL008","Jhon Lucumí","Colombia","Colombia","Base",913,false,0
+914,"COL009","Santiago Arias","Colombia","Colombia","Base",914,false,0
+915,"COL010","Jefferson Lerma","Colombia","Colombia","Base",915,false,0
+916,"COL011","Kevin Castaño","Colombia","Colombia","Base",916,false,0
+917,"COL012","Richard Rios","Colombia","Colombia","Base",917,false,0
+918,"COL013","Team Photo","Colombia","Colombia","Base",918,false,0
+919,"COL014","James Rodriguez","Colombia","Colombia","Base",919,false,0
+920,"COL015","Juan Fernando Quintero","Colombia","Colombia","Base",920,false,0
+921,"COL016","Jorge Carrascal","Colombia","Colombia","Base",921,false,0
+922,"COL017","Jon Arias","Colombia","Colombia","Base",922,false,0
+923,"COL018","Jhon Cordova","Colombia","Colombia","Base",923,false,0
+924,"COL019","Luis Suarez","Colombia","Colombia","Base",924,false,0
+925,"COL020","Luis Diaz","Colombia","Colombia","Base",925,false,0
+926,"ENG001","Emblem","England","England","Foil",926,false,0
+927,"ENG002","Jordan Pickford","England","England","Base",927,false,0
+928,"ENG003","John Stones","England","England","Base",928,false,0
+929,"ENG004","Marc Guéhi","England","England","Base",929,false,0
+930,"ENG005","Ezri Konsa","England","England","Base",930,false,0
+931,"ENG006","Trent Alexander-Arnold","England","England","Base",931,false,0
+932,"ENG007","Reece James","England","England","Base",932,false,0
+933,"ENG008","Dan Burn","England","England","Base",933,false,0
+934,"ENG009","Jordan Henderson","England","England","Base",934,false,0
+935,"ENG010","Declan Rice","England","England","Base",935,false,0
+936,"ENG011","Jude Bellingham","England","England","Base",936,false,0
+937,"ENG012","Cole Palmer","England","England","Base",937,false,0
+938,"ENG013","Team Photo","England","England","Base",938,false,0
+939,"ENG014","Morgan Rogers","England","England","Base",939,false,0
+940,"ENG015","Anthony Gordon","England","England","Base",940,false,0
+941,"ENG016","Phil Foden","England","England","Base",941,false,0
+942,"ENG017","Bukayo Saka","England","England","Base",942,false,0
+943,"ENG018","Harry Kane","England","England","Base",943,false,0
+944,"ENG019","Marcus Rashford","England","England","Base",944,false,0
+945,"ENG020","Ollie Watkins","England","England","Base",945,false,0
+946,"CRO001","Emblem","Croatia","Croatia","Foil",946,false,0
+947,"CRO002","Dominik Livaković","Croatia","Croatia","Base",947,false,0
+948,"CRO003","Duje Caleta-Car","Croatia","Croatia","Base",948,false,0
+949,"CRO004","Josko Gvardiol","Croatia","Croatia","Base",949,false,0
+950,"CRO005","Josip Stanišić","Croatia","Croatia","Base",950,false,0
+951,"CRO006","Luka Vušković","Croatia","Croatia","Base",951,false,0
+952,"CRO007","Josip Sutalo","Croatia","Croatia","Base",952,false,0
+953,"CRO008","Kristijan Jakic","Croatia","Croatia","Base",953,false,0
+954,"CRO009","Luka Modrić","Croatia","Croatia","Base",954,false,0
+955,"CRO010","Mateo Kovacic","Croatia","Croatia","Base",955,false,0
+956,"CRO011","Martin Baturina","Croatia","Croatia","Base",956,false,0
+957,"CRO012","Lovro Majer","Croatia","Croatia","Base",957,false,0
+958,"CRO013","Team Photo","Croatia","Croatia","Base",958,false,0
+959,"CRO014","Mario Pasalic","Croatia","Croatia","Base",959,false,0
+960,"CRO015","Petar Sucic","Croatia","Croatia","Base",960,false,0
+961,"CRO016","Ivan Perišić","Croatia","Croatia","Base",961,false,0
+962,"CRO017","Marco Pasalic","Croatia","Croatia","Base",962,false,0
+963,"CRO018","Ante Budimir","Croatia","Croatia","Base",963,false,0
+964,"CRO019","Andrej Kramarić","Croatia","Croatia","Base",964,false,0
+965,"CRO020","Franjo Ivanovic","Croatia","Croatia","Base",965,false,0
+966,"GHA001","Emblem","Ghana","Ghana","Foil",966,false,0
+967,"GHA002","Lawrence Ati Zigi","Ghana","Ghana","Base",967,false,0
+968,"GHA003","Tariq Lamptey","Ghana","Ghana","Base",968,false,0
+969,"GHA004","Mohammed Salisu","Ghana","Ghana","Base",969,false,0
+970,"GHA005","Alidu Seidu","Ghana","Ghana","Base",970,false,0
+971,"GHA006","Alexander Djiku","Ghana","Ghana","Base",971,false,0
+972,"GHA007","Gideon Mensah","Ghana","Ghana","Base",972,false,0
+973,"GHA008","Caleb Yirenkyi","Ghana","Ghana","Base",973,false,0
+974,"GHA009","Abdul Issahaku Fatawu","Ghana","Ghana","Base",974,false,0
+975,"GHA010","Thomas Partey","Ghana","Ghana","Base",975,false,0
+976,"GHA011","Salis Abdul Samed","Ghana","Ghana","Base",976,false,0
+977,"GHA012","Kamaldeen Sulemana","Ghana","Ghana","Base",977,false,0
+978,"GHA013","Team Photo","Ghana","Ghana","Base",978,false,0
+979,"GHA014","Mohammed Kudus","Ghana","Ghana","Base",979,false,0
+980,"GHA015","Inaki Williams","Ghana","Ghana","Base",980,false,0
+981,"GHA016","Jordan Ayew","Ghana","Ghana","Base",981,false,0
+982,"GHA017","Andrew Ayew","Ghana","Ghana","Base",982,false,0
+983,"GHA018","Joseph Paintsil","Ghana","Ghana","Base",983,false,0
+984,"GHA019","Osman Bukari","Ghana","Ghana","Base",984,false,0
+985,"GHA020","Antoine Semenyo","Ghana","Ghana","Base",985,false,0
+986,"PAN001","Emblem","Panama","Panama","Foil",986,false,0
+987,"PAN002","Orlando Mosquera","Panama","Panama","Base",987,false,0
+988,"PAN003","Luis Mejia","Panama","Panama","Base",988,false,0
+989,"PAN004","Fidel Escobar","Panama","Panama","Base",989,false,0
+990,"PAN005","Andres Andrade","Panama","Panama","Base",990,false,0
+991,"PAN006","Michael Amir Murillo","Panama","Panama","Base",991,false,0
+992,"PAN007","Eric Davis","Panama","Panama","Base",992,false,0
+993,"PAN008","Jose Cordoba","Panama","Panama","Base",993,false,0
+994,"PAN009","Cesar Blackman","Panama","Panama","Base",994,false,0
+995,"PAN010","Cristian Martinez","Panama","Panama","Base",995,false,0
+996,"PAN011","Aníbal Godoy","Panama","Panama","Base",996,false,0
+997,"PAN012","Adalberto Carrasquilla","Panama","Panama","Base",997,false,0
+998,"PAN013","Team Photo","Panama","Panama","Base",998,false,0
+999,"PAN014","Édgar Bárcenas","Panama","Panama","Base",999,false,0
+1000,"PAN015","Carlos Harvey","Panama","Panama","Base",1000,false,0
+1001,"PAN016","Ismael Díaz","Panama","Panama","Base",1001,false,0
+1002,"PAN017","Jose Fajardo","Panama","Panama","Base",1002,false,0
+1003,"PAN018","Cecilio Waterman","Panama","Panama","Base",1003,false,0
+1004,"PAN019","Jose Luiz Rodriguez","Panama","Panama","Base",1004,false,0
+1005,"PAN020","Alberto Quintero","Panama","Panama","Base",1005,false,0
+1006,"FWC009","Italy 1934","FIFA World Cup History","FIFA World Cup History","Foil",1006,false,0
+1007,"FWC010","Uruguay 1950","FIFA World Cup History","FIFA World Cup History","Foil",1007,false,0
+1008,"FWC011","West Germany 1954","FIFA World Cup History","FIFA World Cup History","Foil",1008,false,0
+1009,"FWC012","Brazil 1962","FIFA World Cup History","FIFA World Cup History","Foil",1009,false,0
+1010,"FWC013","West Germany 1974","FIFA World Cup History","FIFA World Cup History","Foil",1010,false,0
+1011,"FWC014","Argentina 1986","FIFA World Cup History","FIFA World Cup History","Foil",1011,false,0
+1012,"FWC015","Brazil 1994","FIFA World Cup History","FIFA World Cup History","Foil",1012,false,0
+1013,"FWC016","Brazil 2002","FIFA World Cup History","FIFA World Cup History","Foil",1013,false,0
+1014,"FWC017","Italy 2006","FIFA World Cup History","FIFA World Cup History","Foil",1014,false,0
+1015,"FWC018","Germany 2014","FIFA World Cup History","FIFA World Cup History","Foil",1015,false,0
+1016,"FWC019","Argentina 2022","FIFA World Cup History","FIFA World Cup History","Foil",1016,false,0
+1017,"CC-US001","Lamine Yamal","Spain","Coca Cola","Coca Cola / USA Canada",1017,false,0
+1018,"CC-US002","Joshua Kimmich","Germany","Coca Cola","Coca Cola / USA Canada",1018,false,0
+1019,"CC-US003","Harry Kane","England","Coca Cola","Coca Cola / USA Canada",1019,false,0
+1020,"CC-US004","Santiago Giménez","Mexico","Coca Cola","Coca Cola / USA Canada",1020,false,0
+1021,"CC-US005","Antonee Robinson","USA","Coca Cola","Coca Cola / USA Canada",1021,false,0
+1022,"CC-US006","Jefferson Lerma","Colombia","Coca Cola","Coca Cola / USA Canada",1022,false,0
+1023,"CC-US007","Edson Álvarez","Mexico","Coca Cola","Coca Cola / USA Canada",1023,false,0
+1024,"CC-US008","Virgil van Dijk","Netherlands","Coca Cola","Coca Cola / USA Canada",1024,false,0
+1025,"CC-US009","Alphonso Davies","Canada","Coca Cola","Coca Cola / USA Canada",1025,false,0
+1026,"CC-US010","Weston McKennie","USA","Coca Cola","Coca Cola / USA Canada",1026,false,0
+1027,"CC-US011","Lautaro Martínez","Argentina","Coca Cola","Coca Cola / USA Canada",1027,false,0
+1028,"CC-US012","Gabriel Magalhães","Brazil","Coca Cola","Coca Cola / USA Canada",1028,false,0
+1029,"CC-LAM001","Lamine Yamal","Spain","Coca Cola","Coca Cola / Latin America",1029,false,0
+1030,"CC-LAM002","Joshua Kimmich","Germany","Coca Cola","Coca Cola / Latin America",1030,false,0
+1031,"CC-LAM003","Harry Kane","England","Coca Cola","Coca Cola / Latin America",1031,false,0
+1032,"CC-LAM004","Santiago Giménez","Mexico","Coca Cola","Coca Cola / Latin America",1032,false,0
+1033,"CC-LAM005","Josko Gvardiol","Croatia","Coca Cola","Coca Cola / Latin America",1033,false,0
+1034,"CC-LAM006","Federico Valverde","Uruguay","Coca Cola","Coca Cola / Latin America",1034,false,0
+1035,"CC-LAM007","Jefferson Lerma","Colombia","Coca Cola","Coca Cola / Latin America",1035,false,0
+1036,"CC-LAM008","Enner Valencia","Ecuador","Coca Cola","Coca Cola / Latin America",1036,false,0
+1037,"CC-LAM009","Gabriel Magalhães","Brazil","Coca Cola","Coca Cola / Latin America",1037,false,0
+1038,"CC-LAM010","Virgil van Dijk","Netherlands","Coca Cola","Coca Cola / Latin America",1038,false,0
+1039,"CC-LAM011","Alphonso Davies","Canada","Coca Cola","Coca Cola / Latin America",1039,false,0
+1040,"CC-LAM012","Emiliano Martinez","Argentina","Coca Cola","Coca Cola / Latin America",1040,false,0
+1041,"CC-LAM013","Raúl Jiménez","Mexico","Coca Cola","Coca Cola / Latin America",1041,false,0
+1042,"CC-LAM014","Lautaro Martínez","Argentina","Coca Cola","Coca Cola / Latin America",1042,false,0
+1043,"CC-SRB001","Lautaro Martínez","Argentina","Coca Cola","Coca Cola / Serbia",1043,false,0
+1044,"CC-SRB002","Alphonso Davies","Canada","Coca Cola","Coca Cola / Serbia",1044,false,0
+1045,"CC-SRB003","Josko Gvardiol","Croatia","Coca Cola","Coca Cola / Serbia",1045,false,0
+1046,"CC-SRB004","Harry Kane","England","Coca Cola","Coca Cola / Serbia",1046,false,0
+1047,"CC-SRB005","Eduardo Camavinga","France","Coca Cola","Coca Cola / Serbia",1047,false,0
+1048,"CC-SRB006","William Saliba","France","Coca Cola","Coca Cola / Serbia",1048,false,0
+1049,"CC-SRB007","Joshua Kimmich","Germany","Coca Cola","Coca Cola / Serbia",1049,false,0
+1050,"CC-SRB008","Raúl Jiménez","Mexico","Coca Cola","Coca Cola / Serbia",1050,false,0
+1051,"CC-SRB009","Virgil van Dijk","Netherlands","Coca Cola","Coca Cola / Serbia",1051,false,0
+1052,"CC-SRB010","Lamine Yamal","Spain","Coca Cola","Coca Cola / Serbia",1052,false,0
+1053,"CC-SRB011","Antonee Robinson","USA","Coca Cola","Coca Cola / Serbia",1053,false,0
+1054,"CC-SRB012","Federico Valverde","Uruguay","Coca Cola","Coca Cola / Serbia",1054,false,0
+1055,"CC-ESP001","Lamine Yamal","Spain","Coca Cola","Coca Cola / Spain",1055,false,0
+1056,"CC-ESP002","Joshua Kimmich","Germany","Coca Cola","Coca Cola / Spain",1056,false,0
+1057,"CC-ESP003","Eduardo Camavinga","France","Coca Cola","Coca Cola / Spain",1057,false,0
+1058,"CC-ESP004","Josko Gvardiol","Croatia","Coca Cola","Coca Cola / Spain",1058,false,0
+1059,"CC-ESP005","Federico Valverde","Uruguay","Coca Cola","Coca Cola / Spain",1059,false,0
+1060,"CC-ESP006","Virgil van Dijk","Netherlands","Coca Cola","Coca Cola / Spain",1060,false,0
+1061,"CC-ESP007","Alphonso Davies","Canada","Coca Cola","Coca Cola / Spain",1061,false,0
+1062,"CC-ESP008","Raúl Jiménez","Mexico","Coca Cola","Coca Cola / Spain",1062,false,0
+1063,"CC-ESP009","William Saliba","France","Coca Cola","Coca Cola / Spain",1063,false,0
+1064,"CC-ESP010","Lautaro Martínez","Argentina","Coca Cola","Coca Cola / Spain",1064,false,0
+1065,"CC-ESP011","Harry Kane","England","Coca Cola","Coca Cola / Spain",1065,false,0
+1066,"CC-ESP012","Antonee Robinson","USA","Coca Cola","Coca Cola / Spain",1066,false,0
+1067,"ARG13mc","Team Photo","Argentina","McDonald's Exclusive","McDonald's Exclusive",1067,false,0
+1068,"AUS13mc","Team Photo","Australia","McDonald's Exclusive","McDonald's Exclusive",1068,false,0
+1069,"BEL13mc","Team Photo","Belgium","McDonald's Exclusive","McDonald's Exclusive",1069,false,0
+1070,"BRA13mc","Team Photo","Brazil","McDonald's Exclusive","McDonald's Exclusive",1070,false,0
+1071,"CAN13mc","Team Photo","Canada","McDonald's Exclusive","McDonald's Exclusive",1071,false,0
+1072,"CIV13mc","Team Photo","Ivory Coast","McDonald's Exclusive","McDonald's Exclusive",1072,false,0
+1073,"COL13mc","Team Photo","Colombia","McDonald's Exclusive","McDonald's Exclusive",1073,false,0
+1074,"CRO13mc","Team Photo","Croatia","McDonald's Exclusive","McDonald's Exclusive",1074,false,0
+1075,"ECU13mc","Team Photo","Ecuador","McDonald's Exclusive","McDonald's Exclusive",1075,false,0
+1076,"ENG13mc","Team Photo","England","McDonald's Exclusive","McDonald's Exclusive",1076,false,0
+1077,"ESP13mc","Team Photo","Spain","McDonald's Exclusive","McDonald's Exclusive",1077,false,0
+1078,"FRA13mc","Team Photo","France","McDonald's Exclusive","McDonald's Exclusive",1078,false,0
+1079,"GER13mc","Team Photo","Germany","McDonald's Exclusive","McDonald's Exclusive",1079,false,0
+1080,"GHA13mc","Team Photo","Ghana","McDonald's Exclusive","McDonald's Exclusive",1080,false,0
+1081,"JPN13mc","Team Photo","Japan","McDonald's Exclusive","McDonald's Exclusive",1081,false,0
+1082,"KOR13mc","Team Photo","South Korea","McDonald's Exclusive","McDonald's Exclusive",1082,false,0
+1083,"RSA13mc","Team Photo","Saudi Arabia","McDonald's Exclusive","McDonald's Exclusive",1083,false,0
+1084,"MAR13mc","Team Photo","Morocco","McDonald's Exclusive","McDonald's Exclusive",1084,false,0
+1085,"MEX13mc","Team Photo","Mexico","McDonald's Exclusive","McDonald's Exclusive",1085,false,0
+1086,"NED13mc","Team Photo","Netherlands","McDonald's Exclusive","McDonald's Exclusive",1086,false,0
+1087,"NOR13mc","Team Photo","Norway","McDonald's Exclusive","McDonald's Exclusive",1087,false,0
+1088,"PAN13mc","Team Photo","Panama","McDonald's Exclusive","McDonald's Exclusive",1088,false,0
+1089,"QAT13mc","Team Photo","Qatar","McDonald's Exclusive","McDonald's Exclusive",1089,false,0
+1090,"SEN13mc","Team Photo","Senegal","McDonald's Exclusive","McDonald's Exclusive",1090,false,0
+1091,"SUI13mc","Team Photo","Switzerland","McDonald's Exclusive","McDonald's Exclusive",1091,false,0
+1092,"TUN13mc","Team Photo","Tunisia","McDonald's Exclusive","McDonald's Exclusive",1092,false,0
+1093,"URU13mc","Team Photo","Uruguay","McDonald's Exclusive","McDonald's Exclusive",1093,false,0
+1094,"USA13mc","Team Photo","USA","McDonald's Exclusive","McDonald's Exclusive",1094,false,0
+1095,"UZB13mc","Team Photo","Uzbekistan","McDonald's Exclusive","McDonald's Exclusive",1095,false,0
+1096,"LM","Lionel Messi","Argentina","Extra Stickers","Extra / Base",1096,false,0
+1097,"JD","Jérémy Doku","Belgium","Extra Stickers","Extra / Base",1097,false,0
+1098,"VJ","Vinícíús Júnior","Brazil","Extra Stickers","Extra / Base",1098,false,0
+1099,"AD","Alphonso Davies","Canada","Extra Stickers","Extra / Base",1099,false,0
+1100,"LD","Luis Díaz","Colombia","Extra Stickers","Extra / Base",1100,false,0
+1101,"LMO","Luka Modrić","Croatia","Extra Stickers","Extra / Base",1101,false,0
+1102,"MC","Moisés Caicedo","Ecuador","Extra Stickers","Extra / Base",1102,false,0
+1103,"MS","Mohamed Salah","Egypt","Extra Stickers","Extra / Base",1103,false,0
+1104,"JB","Jude Bellingham","England","Extra Stickers","Extra / Base",1104,false,0
+1105,"KM","Kylian Mbappé","France","Extra Stickers","Extra / Base",1105,false,0
+1106,"FW","Florian Wirtz","Germany","Extra Stickers","Extra / Base",1106,false,0
+1107,"RJ","Raúl Jiménez","Mexico","Extra Stickers","Extra / Base",1107,false,0
+1108,"AH","Achraf Hakimi","Morocco","Extra Stickers","Extra / Base",1108,false,0
+1109,"EH","Erling Haaland","Norway","Extra Stickers","Extra / Base",1109,false,0
+1110,"RL","Robert Lewnadowski","Poland","Extra Stickers","Extra / Base",1110,false,0
+1111,"CR","Cristiano Ronaldo","Portugal","Extra Stickers","Extra / Base",1111,false,0
+1112,"HS","Heung-min Son","South Korea","Extra Stickers","Extra / Base",1112,false,0
+1113,"LY","Lamine Yamal","Spain","Extra Stickers","Extra / Base",1113,false,0
+1114,"CP","Christian Pulisic","USA","Extra Stickers","Extra / Base",1114,false,0
+1115,"FV","Federico Valverde","Uruguay","Extra Stickers","Extra / Base",1115,false,0
+1116,"LM-b","Lionel Messi","Argentina","Extra Stickers","Extra / Bronze",1116,false,0
+1117,"JD-b","Jérémy Doku","Belgium","Extra Stickers","Extra / Bronze",1117,false,0
+1118,"VJ-b","Vinícíús Júnior","Brazil","Extra Stickers","Extra / Bronze",1118,false,0
+1119,"AD-b","Alphonso Davies","Canada","Extra Stickers","Extra / Bronze",1119,false,0
+1120,"LD-b","Luis Díaz","Colombia","Extra Stickers","Extra / Bronze",1120,false,0
+1121,"LMO-b","Luka Modrić","Croatia","Extra Stickers","Extra / Bronze",1121,false,0
+1122,"MC-b","Moisés Caicedo","Ecuador","Extra Stickers","Extra / Bronze",1122,false,0
+1123,"MS-b","Mohamed Salah","Egypt","Extra Stickers","Extra / Bronze",1123,false,0
+1124,"JB-b","Jude Bellingham","England","Extra Stickers","Extra / Bronze",1124,false,0
+1125,"KM-b","Kylian Mbappé","France","Extra Stickers","Extra / Bronze",1125,false,0
+1126,"FW-b","Florian Wirtz","Germany","Extra Stickers","Extra / Bronze",1126,false,0
+1127,"RJ-b","Raúl Jiménez","Mexico","Extra Stickers","Extra / Bronze",1127,false,0
+1128,"AH-b","Achraf Hakimi","Morocco","Extra Stickers","Extra / Bronze",1128,false,0
+1129,"EH-b","Erling Haaland","Norway","Extra Stickers","Extra / Bronze",1129,false,0
+1130,"RL-b","Robert Lewnadowski","Poland","Extra Stickers","Extra / Bronze",1130,false,0
+1131,"CR-b","Cristiano Ronaldo","Portugal","Extra Stickers","Extra / Bronze",1131,false,0
+1132,"HS-b","Heung-min Son","South Korea","Extra Stickers","Extra / Bronze",1132,false,0
+1133,"LY-b","Lamine Yamal","Spain","Extra Stickers","Extra / Bronze",1133,false,0
+1134,"CP-b","Christian Pulisic","USA","Extra Stickers","Extra / Bronze",1134,false,0
+1135,"FV-b","Federico Valverde","Uruguay","Extra Stickers","Extra / Bronze",1135,false,0
+1136,"LM-s","Lionel Messi","Argentina","Extra Stickers","Extra / Silver",1136,false,0
+1137,"JD-s","Jérémy Doku","Belgium","Extra Stickers","Extra / Silver",1137,false,0
+1138,"VJ-s","Vinícíús Júnior","Brazil","Extra Stickers","Extra / Silver",1138,false,0
+1139,"AD-s","Alphonso Davies","Canada","Extra Stickers","Extra / Silver",1139,false,0
+1140,"LD-s","Luis Díaz","Colombia","Extra Stickers","Extra / Silver",1140,false,0
+1141,"LMO-s","Luka Modrić","Croatia","Extra Stickers","Extra / Silver",1141,false,0
+1142,"MC-s","Moisés Caicedo","Ecuador","Extra Stickers","Extra / Silver",1142,false,0
+1143,"MS-s","Mohamed Salah","Egypt","Extra Stickers","Extra / Silver",1143,false,0
+1144,"JB-s","Jude Bellingham","England","Extra Stickers","Extra / Silver",1144,false,0
+1145,"KM-s","Kylian Mbappé","France","Extra Stickers","Extra / Silver",1145,false,0
+1146,"FW-s","Florian Wirtz","Germany","Extra Stickers","Extra / Silver",1146,false,0
+1147,"RJ-s","Raúl Jiménez","Mexico","Extra Stickers","Extra / Silver",1147,false,0
+1148,"AH-s","Achraf Hakimi","Morocco","Extra Stickers","Extra / Silver",1148,false,0
+1149,"EH-s","Erling Haaland","Norway","Extra Stickers","Extra / Silver",1149,false,0
+1150,"RL-s","Robert Lewnadowski","Poland","Extra Stickers","Extra / Silver",1150,false,0
+1151,"CR-s","Cristiano Ronaldo","Portugal","Extra Stickers","Extra / Silver",1151,false,0
+1152,"HS-s","Heung-min Son","South Korea","Extra Stickers","Extra / Silver",1152,false,0
+1153,"LY-s","Lamine Yamal","Spain","Extra Stickers","Extra / Silver",1153,false,0
+1154,"CP-s","Christian Pulisic","USA","Extra Stickers","Extra / Silver",1154,false,0
+1155,"FV-s","Federico Valverde","Uruguay","Extra Stickers","Extra / Silver",1155,false,0
+1156,"LM-g","Lionel Messi","Argentina","Extra Stickers","Extra / Gold",1156,false,0
+1157,"JD-g","Jérémy Doku","Belgium","Extra Stickers","Extra / Gold",1157,false,0
+1158,"VJ-g","Vinícíús Júnior","Brazil","Extra Stickers","Extra / Gold",1158,false,0
+1159,"AD-g","Alphonso Davies","Canada","Extra Stickers","Extra / Gold",1159,false,0
+1160,"LD-g","Luis Díaz","Colombia","Extra Stickers","Extra / Gold",1160,false,0
+1161,"LMO-g","Luka Modrić","Croatia","Extra Stickers","Extra / Gold",1161,false,0
+1162,"MC-g","Moisés Caicedo","Ecuador","Extra Stickers","Extra / Gold",1162,false,0
+1163,"MS-g","Mohamed Salah","Egypt","Extra Stickers","Extra / Gold",1163,false,0
+1164,"JB-g","Jude Bellingham","England","Extra Stickers","Extra / Gold",1164,false,0
+1165,"KM-g","Kylian Mbappé","France","Extra Stickers","Extra / Gold",1165,false,0
+1166,"FW-g","Florian Wirtz","Germany","Extra Stickers","Extra / Gold",1166,false,0
+1167,"RJ-g","Raúl Jiménez","Mexico","Extra Stickers","Extra / Gold",1167,false,0
+1168,"AH-g","Achraf Hakimi","Morocco","Extra Stickers","Extra / Gold",1168,false,0
+1169,"EH-g","Erling Haaland","Norway","Extra Stickers","Extra / Gold",1169,false,0
+1170,"RL-g","Robert Lewnadowski","Poland","Extra Stickers","Extra / Gold",1170,false,0
+1171,"CR-g","Cristiano Ronaldo","Portugal","Extra Stickers","Extra / Gold",1171,false,0
+1172,"HS-g","Heung-min Son","South Korea","Extra Stickers","Extra / Gold",1172,false,0
+1173,"LY-g","Lamine Yamal","Spain","Extra Stickers","Extra / Gold",1173,false,0
+1174,"CP-g","Christian Pulisic","USA","Extra Stickers","Extra / Gold",1174,false,0
+1175,"FV-g","Federico Valverde","Uruguay","Extra Stickers","Extra / Gold",1175,false,0
